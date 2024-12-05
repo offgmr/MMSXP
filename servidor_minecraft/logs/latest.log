@@ -1,47 +1,72 @@
-[00:51:44] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[00:51:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[00:51:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:51:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[00:51:45] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
-[00:51:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:51:51] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[00:51:51] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[00:51:52] [ServerMain/INFO]: No existing world data, creating new world
-[00:51:53] [ServerMain/INFO]: Loaded 1290 recipes
-[00:51:53] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 8534ms.
-[00:51:53] [ServerMain/INFO]: Loaded 1399 advancements
-[00:51:54] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:51:54] [Server thread/INFO]: Loading properties
-[00:51:54] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[00:51:55] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:51:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:51:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:51:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[00:51:56] [Server thread/INFO]: Default game type: SURVIVAL
-[00:51:56] [Server thread/INFO]: Generating keypair
-[00:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:51:56] [Server thread/INFO]: Using epoll channel type
-[00:51:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:51:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:51:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:51:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:51:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:51:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:51:56] [Server thread/INFO]: Preparing level "world"
-[00:52:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:52:14] [Server thread/INFO]: Time elapsed: 5643 ms
-[00:52:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:52:17] [Server thread/INFO]: Time elapsed: 2437 ms
-[00:52:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:52:17] [Server thread/INFO]: Time elapsed: 575 ms
-[00:52:17] [Server thread/INFO]: [spark] Starting background profiler...
-[00:52:17] [Server thread/INFO]: Done preparing level "world" (21.604s)
-[00:52:17] [Server thread/INFO]: Running delayed init tasks
-[00:52:17] [Server thread/INFO]: Done (34.124s)! For help, type "help"
-[00:52:17] [Server thread/INFO]: *************************************************************************************
-[00:52:17] [Server thread/INFO]: This is the first time you're starting this server.
-[00:52:17] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[00:52:17] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[00:52:17] [Server thread/INFO]: *************************************************************************************
-[00:52:17] [Server thread/INFO]: Timings Reset
-[00:54:03] [Server thread/INFO]: [Not Secure] [Server] hola
+[18:49:22] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[18:49:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[18:49:22] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:49:22] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[18:49:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:49:31] [ServerMain/INFO]: Loaded 1290 recipes
+[18:49:32] [ServerMain/INFO]: Loaded 1399 advancements
+[18:49:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:49:32] [Server thread/INFO]: Loading properties
+[18:49:32] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[18:49:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:49:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:49:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:49:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[18:49:34] [Server thread/INFO]: Default game type: SURVIVAL
+[18:49:34] [Server thread/INFO]: Generating keypair
+[18:49:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:49:35] [Server thread/INFO]: Using epoll channel type
+[18:49:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:49:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:49:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:49:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:49:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:49:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:49:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:49:35] [Server thread/INFO]: Preparing level "world"
+[18:49:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:49:37] [Server thread/INFO]: Time elapsed: 1957 ms
+[18:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:49:37] [Server thread/INFO]: Time elapsed: 314 ms
+[18:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:49:38] [Server thread/INFO]: Time elapsed: 149 ms
+[18:49:38] [Server thread/INFO]: [spark] Starting background profiler...
+[18:49:38] [Server thread/INFO]: Done preparing level "world" (3.758s)
+[18:49:38] [Server thread/INFO]: Running delayed init tasks
+[18:49:38] [Server thread/INFO]: Done (19.002s)! For help, type "help"
+[18:49:38] [Server thread/INFO]: Timings Reset
+[18:50:26] [Server thread/INFO]: [Not Secure] [Server] hola
+[18:52:34] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:52:36] [Server thread/INFO]: offgamer233 joined the game
+[18:52:36] [Server thread/INFO]: offgamer233[/127.242.21.161:32801] logged in with entity id 20 at ([world]10.5, 66.0, 10.5)
+[18:52:50] [Server thread/INFO]: Made offgamer233 a server operator
+[18:52:54] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[18:52:54] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[18:53:02] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[18:53:02] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[18:53:41] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[18:53:41] [Server thread/INFO]: offgamer233 left the game
+[18:53:48] [User Authenticator #1/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:53:49] [Server thread/INFO]: offgamer233 joined the game
+[18:53:49] [Server thread/INFO]: offgamer233[/127.242.21.161:55193] logged in with entity id 377 at ([world]17.863126669864094, 68.0, -9.430176167016352)
+[18:54:06] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:command_block 1
+[18:54:06] [Server thread/INFO]: [offgamer233: Gave 1 [Command Block] to offgamer233]
+[18:55:06] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[18:55:06] [Server thread/INFO]: offgamer233 left the game
+[18:57:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/reload<--[HERE]
+[18:57:33] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:57:37] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[18:57:37] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[18:57:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:57:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:57:38] [Server thread/INFO]: Loaded 1290 recipes
+[18:57:38] [Server thread/INFO]: Loaded 1399 advancements
+[18:57:38] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:57:38] [Server thread/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[18:57:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:57:38] [Server thread/INFO]: CONSOLE: Reload complete.
+[18:57:38] [Server thread/INFO]: Timings Reset
+[18:57:47] [User Authenticator #2/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:57:48] [Server thread/INFO]: offgamer233 joined the game
+[18:57:48] [Server thread/INFO]: offgamer233[/127.242.21.161:48355] logged in with entity id 492 at ([world]20.919344567249688, 68.0, -7.661016811340952)
