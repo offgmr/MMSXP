@@ -529,3 +529,145 @@ Source 0: com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.World
 [18:12:03] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
 [18:12:03] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring incoming plugin channel register of 'fabric-screen-handler-api-v1:open_screen', as it is longer than 32 characters
 [18:12:54] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
+[18:15:17] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
+[18:15:24] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
+[18:15:30] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
+[18:15:36] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
+[18:15:39] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[18:15:39] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[18:18:46] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
+[18:19:16] [Server thread/INFO]: offgamer233 issued server command: //set 251:8
+[18:22:58] [Server thread/INFO]: offgamer233 issued server command: /gamerule sendCommandFeedback
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 11 16 17 11 18 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 16 16 17 16 18 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 17 16 17 17 18 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 11 19 27 11 23 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 16 19 28 16 24 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 17 19 27 17 23 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 12 24 28 14 24 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 15 24 19 15 24 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 18 12 23 minecraft:red_bed[facing=west,occupied=false,part=head]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=west,occupied=false,part=head]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 19 12 23 minecraft:red_bed[facing=west,occupied=false,part=foot]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=west,occupied=false,part=foot]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 20 12 23 minecraft:water_cauldron[level=3]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:water_cauldron[level=3]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 20 15 24 21 15 24 minecraft:redstone_lamp[lit=true] replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:redstone_lamp[lit=true]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 20 15 25 21 15 25 minecraft:redstone_block replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: 'replace' is not a state for block minecraft:redstone_block]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 20 17 25 21 17 25 minecraft:redstone_block replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: 'replace' is not a state for block minecraft:redstone_block]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 21 12 23 minecraft:red_bed[facing=east,occupied=false,part=foot]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=east,occupied=false,part=foot]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 22 12 23 minecraft:red_bed[facing=east,occupied=false,part=head]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=east,occupied=false,part=head]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 22 15 24 28 15 24 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 23 11 16 27 11 18 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 23 16 16 28 16 18 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 23 17 16 27 17 18 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 28 12 16 28 15 23 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 28 17 23 minecraft:redstone_block
+[18:23:00] [Server thread/INFO]: [offgamer233: Block placed]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 28 17 24 minecraft:redstone_lamp[lit=true]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:redstone_lamp[lit=true]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 12 8 28 14 8 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 15 8 19 15 8 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 16 8 28 16 13 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 11 9 27 11 13 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 17 9 27 17 13 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 11 14 17 11 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 16 14 17 16 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 16 17 14 17 17 15 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 18 12 9 minecraft:red_bed[facing=west,occupied=false,part=head]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=west,occupied=false,part=head]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 19 12 9 minecraft:red_bed[facing=west,occupied=false,part=foot]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=west,occupied=false,part=foot]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 20 15 7 21 15 7 minecraft:redstone_block replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: 'replace' is not a state for block minecraft:redstone_block]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 20 15 8 21 15 8 minecraft:redstone_lamp[lit=true] replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:redstone_lamp[lit=true]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 20 12 9 minecraft:water_cauldron[level=3]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:water_cauldron[level=3]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 20 14 9 minecraft:oak_wall_sign[facing=south,waterlogged=false]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:oak_wall_sign[facing=south,waterlogged=false]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 21 12 9 minecraft:red_bed[facing=east,occupied=false,part=foot]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=east,occupied=false,part=foot]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 22 15 8 28 15 8 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 22 12 9 minecraft:red_bed[facing=east,occupied=false,part=head]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:red_bed[facing=east,occupied=false,part=head]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 23 11 14 27 11 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 23 16 14 28 16 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 23 17 14 27 17 15 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 28 11 8 minecraft:gray_concrete
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 28 12 9 28 15 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 12 12 16 12 15 23 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 12 16 16 15 16 24 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 12 11 24 minecraft:gray_concrete
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 12 12 24 15 15 24 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 12 17 24 minecraft:light_gray_concrete
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 13 11 16 15 11 23 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 13 17 16 15 17 23 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 13 12 23 minecraft:crafting_table
+[18:23:00] [Server thread/INFO]: [offgamer233: Block placed]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 13 13 23 minecraft:potted_brown_mushroom
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:potted_brown_mushroom]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 13 15 23 minecraft:furnace[facing=east,lit=false]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:furnace[facing=east,lit=false]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 15 11 24 minecraft:gray_concrete
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 12 12 8 15 15 8 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 12 16 8 15 16 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 12 12 9 12 15 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 13 11 9 15 11 15 minecraft:gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:gray_concrete]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 13 12 9 minecraft:crafting_table
+[18:23:00] [Server thread/INFO]: [offgamer233: Block placed]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 13 13 9 minecraft:potted_brown_mushroom
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:potted_brown_mushroom]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /setblock 13 15 9 minecraft:furnace[facing=east,lit=false]
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:furnace[facing=east,lit=false]]
+[18:23:00] [Server thread/INFO]: offgamer233 issued server command: /fill 13 17 9 15 17 15 minecraft:light_gray_concrete replace air
+[18:23:00] [Server thread/INFO]: [offgamer233: There is no such block with name minecraft:light_gray_concrete]
+[18:23:40] [Server thread/INFO]: offgamer233 issued server command: //pos1
+[18:23:50] [Server thread/INFO]: offgamer233 issued server command: //pos2
+[18:24:06] [Server thread/INFO]: offgamer233 issued server command: /setblock ~ ~ ~ dirt
+[18:24:06] [Server thread/INFO]: [offgamer233: Block placed]
+[18:24:29] [Server thread/INFO]: offgamer233 issued server command: //copy
