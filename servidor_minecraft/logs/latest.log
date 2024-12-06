@@ -702,3 +702,251 @@ Source 0: com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.World
 [18:32:34] [Server thread/INFO]: offgamer233 issued server command: //paste
 [18:32:56] [Server thread/INFO]: offgamer233 issued server command: //paste
 [18:33:04] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:36:17] [Server thread/INFO]: offgamer233 issued server command: //schematic save mihoyo11
+[18:36:17] [Server thread/INFO]: [WorldEdit] offgamer233 saved /workspaces/MMSXP/servidor_minecraft/plugins/WorldEdit/schematics/mihoyo11.schematic
+[18:38:14] [Server thread/INFO]: offgamer233 issued server command: /reload
+[18:38:14] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:38:16] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[18:38:16] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[18:38:16] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[18:38:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:38:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:38:16] [Server thread/INFO]: Debug logging is disabled
+[18:38:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:38:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:38:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:38:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:38:16] [Server thread/INFO]: Random Lighting Updates: false
+[18:38:16] [Server thread/INFO]: Structure Info Saving: true
+[18:38:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:38:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Mob Spawn Range: 4
+[18:38:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:38:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:38:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:38:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:38:16] [Server thread/INFO]: View Distance: 10
+[18:38:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:38:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:38:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:38:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:38:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:38:16] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:38:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:38:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:38:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:38:16] [Server thread/INFO]: Random Lighting Updates: false
+[18:38:16] [Server thread/INFO]: Structure Info Saving: true
+[18:38:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:38:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:38:16] [Server thread/INFO]: Mob Spawn Range: 4
+[18:38:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:38:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:38:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:38:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:38:16] [Server thread/INFO]: View Distance: 10
+[18:38:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:38:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:38:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:38:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:38:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:38:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:38:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:38:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:38:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:38:17] [Server thread/INFO]: Random Lighting Updates: false
+[18:38:17] [Server thread/INFO]: Structure Info Saving: true
+[18:38:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:38:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:38:17] [Server thread/INFO]: Mob Spawn Range: 4
+[18:38:17] [Server thread/INFO]: Max TNT Explosions: 100
+[18:38:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:38:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:38:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:38:17] [Server thread/INFO]: View Distance: 10
+[18:38:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:38:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:38:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:38:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:38:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:38:17] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[18:38:17] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[18:38:17] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[18:38:17] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[18:38:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
+[18:38:17] [Server thread/INFO]: Loaded 61 custom command functions
+[18:38:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[18:38:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[18:38:17] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[18:38:17] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:38:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:38:17] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:38:17] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:38:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:38:17] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[18:38:17] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[18:38:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:38:17] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[18:38:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[18:38:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:38:18] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[18:38:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[18:38:18] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[18:38:18] [Server thread/INFO]: offgamer233: Reload complete.
+[18:38:18] [Server thread/INFO]: Timings Reset
+[18:38:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[18:38:18] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[18:38:18] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_432). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:38:18] [Craft Scheduler Thread - 8/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:38:18] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[18:38:41] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:structure_block 1
+[18:38:41] [Server thread/INFO]: [offgamer233: Given [Structure Block] * 1 to offgamer233]
+[18:38:41] [Netty Epoll Server IO #3/WARN]: [ViaVersion] ERROR IN Protocol1_13To1_12_2 IN REMAP OF CHAT_MESSAGE (0x0F)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:38:41] [Netty Epoll Server IO #3/WARN]: Source 0: com.viaversion.viaversion.rewriter.ComponentRewriter$$Lambda$1624/1709889838
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:38:41] [Netty Epoll Server IO #3/WARN]: Source 0: com.viaversion.viaversion.rewriter.ComponentRewriter$$Lambda$1624/1709889838
+[18:38:41] [Netty Epoll Server IO #3/WARN]: Caused by: java.lang.IllegalStateException: zip file closed
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.util.zip.ZipFile.ensureOpen(ZipFile.java:693)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.util.zip.ZipFile.getEntry(ZipFile.java:322)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.util.jar.JarFile.getEntry(JarFile.java:249)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.util.jar.JarFile.getJarEntry(JarFile.java:232)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:120)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:104)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.api.minecraft.nbt.BinaryTagIO.writeString(BinaryTagIO.java:211)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.data.ComponentRewriter1_13.handleHoverEvent(ComponentRewriter1_13.java:89)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.rewriter.ComponentRewriter.processText(ComponentRewriter.java:154)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.rewriter.ComponentRewriter.processAsArray(ComponentRewriter.java:182)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.rewriter.ComponentRewriter.processText(ComponentRewriter.java:143)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.rewriter.ComponentRewriter.lambda$registerComponentPacket$0(ComponentRewriter.java:56)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:395)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:45)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:328)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:307)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:57)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:38:41] [Netty Epoll Server IO #3/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:38:41] [Server thread/INFO]: offgamer233 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Source 0: com.viaversion.viaversion.rewriter.ComponentRewriter$$Lambda$1624/1709889838
+[18:38:41] [Server thread/INFO]: offgamer233 left the game
+[18:38:46] [User Authenticator #3/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:38:46] [Server thread/INFO]: offgamer233[/127.242.21.161:56849] logged in with entity id 38 at ([world]24.792942928233458, 11.0, 19.395237710066286)
+[18:38:46] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[18:38:47] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Ignoring incoming plugin channel register of 'fabric-screen-handler-api-v1:open_screen', as it is longer than 32 characters
+[18:41:34] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[18:41:34] [Server thread/INFO]: offgamer233 left the game
+[18:42:15] [User Authenticator #4/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:42:15] [Server thread/INFO]: offgamer233[/127.242.21.161:48851] logged in with entity id 39 at ([world]13.759894304264277, 10.0, 8.601194083217875)
+[18:43:06] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_2",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:06] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:06] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:06] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:06] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:06] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_2']
+[18:43:07] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_1",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:07] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:07] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:07] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:07] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:07] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_1']
+[18:43:09] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_2",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:09] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:09] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:09] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:09] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:09] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_2']
+[18:43:13] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[18:43:13] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[18:43:15] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_3",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:15] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:15] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:15] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:15] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:15] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_3']
+[18:43:17] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_4",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:17] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:17] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:17] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:17] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:17] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_4']
+[18:43:18] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_5",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:18] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:18] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:18] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:18] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:18] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_5']
+[18:43:21] [Server thread/INFO]: [offgamer233: Block data updated to: {metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"gshn28",rotation:"NONE",posX:3,mode:"SAVE",posY:-2,sizeX:4,posZ:1,integrity:1.0f,showair:0b,x:13,name:"Elevator_Model_3",y:14,z:12,id:"minecraft:structure_block",sizeY:5,sizeZ:4,showboundingbox:1b}]
+[18:43:21] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:21] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:21] [Server thread/INFO]: [offgamer233: 1 blocks filled]
+[18:43:21] [Server thread/INFO]: [offgamer233: Block placed]
+[18:43:21] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_3']
