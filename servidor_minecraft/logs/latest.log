@@ -990,3 +990,6 @@ Source 0: com.viaversion.viaversion.rewriter.ComponentRewriter$$Lambda$1624/1709
 [19:01:07] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_3']
 [19:02:54] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:structure_block
 [19:02:54] [Server thread/INFO]: [offgamer233: Given [Structure Block] * 1 to offgamer233]
+[19:22:39] [Server thread/INFO]: offgamer233 issued server command: //wand
+[19:23:14] [Server thread/INFO]: offgamer233 issued server command: //set air
+[19:23:29] [Server thread/INFO]: offgamer233 issued server command: //set air
