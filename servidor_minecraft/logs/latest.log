@@ -1,109 +1,531 @@
-[18:49:22] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[18:49:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[18:49:22] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:49:22] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[18:49:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:49:31] [ServerMain/INFO]: Loaded 1290 recipes
-[18:49:32] [ServerMain/INFO]: Loaded 1399 advancements
-[18:49:32] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:49:32] [Server thread/INFO]: Loading properties
-[18:49:32] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[18:49:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:49:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:49:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:49:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:49:34] [Server thread/INFO]: Default game type: SURVIVAL
-[18:49:34] [Server thread/INFO]: Generating keypair
-[18:49:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:49:35] [Server thread/INFO]: Using epoll channel type
-[18:49:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:49:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:49:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:49:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:49:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:49:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:49:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:49:35] [Server thread/INFO]: Preparing level "world"
-[18:49:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:49:37] [Server thread/INFO]: Time elapsed: 1957 ms
-[18:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:49:37] [Server thread/INFO]: Time elapsed: 314 ms
-[18:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:49:38] [Server thread/INFO]: Time elapsed: 149 ms
-[18:49:38] [Server thread/INFO]: [spark] Starting background profiler...
-[18:49:38] [Server thread/INFO]: Done preparing level "world" (3.758s)
-[18:49:38] [Server thread/INFO]: Running delayed init tasks
-[18:49:38] [Server thread/INFO]: Done (19.002s)! For help, type "help"
-[18:49:38] [Server thread/INFO]: Timings Reset
-[18:50:26] [Server thread/INFO]: [Not Secure] [Server] hola
-[18:52:34] [User Authenticator #0/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
-[18:52:36] [Server thread/INFO]: offgamer233 joined the game
-[18:52:36] [Server thread/INFO]: offgamer233[/127.242.21.161:32801] logged in with entity id 20 at ([world]10.5, 66.0, 10.5)
-[18:52:50] [Server thread/INFO]: Made offgamer233 a server operator
-[18:52:54] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
-[18:52:54] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
-[18:53:02] [Server thread/INFO]: offgamer233 issued server command: /time set day
-[18:53:02] [Server thread/INFO]: [offgamer233: Set the time to 1000]
-[18:53:41] [Server thread/INFO]: offgamer233 lost connection: Disconnected
-[18:53:41] [Server thread/INFO]: offgamer233 left the game
-[18:53:48] [User Authenticator #1/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
-[18:53:49] [Server thread/INFO]: offgamer233 joined the game
-[18:53:49] [Server thread/INFO]: offgamer233[/127.242.21.161:55193] logged in with entity id 377 at ([world]17.863126669864094, 68.0, -9.430176167016352)
-[18:54:06] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:command_block 1
-[18:54:06] [Server thread/INFO]: [offgamer233: Gave 1 [Command Block] to offgamer233]
-[18:55:06] [Server thread/INFO]: offgamer233 lost connection: Disconnected
-[18:55:06] [Server thread/INFO]: offgamer233 left the game
-[18:57:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/reload<--[HERE]
-[18:57:33] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[18:57:37] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:57:37] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:57:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:57:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:57:38] [Server thread/INFO]: Loaded 1290 recipes
-[18:57:38] [Server thread/INFO]: Loaded 1399 advancements
-[18:57:38] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:57:38] [Server thread/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[18:57:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:57:38] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:57:38] [Server thread/INFO]: Timings Reset
-[18:57:47] [User Authenticator #2/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
-[18:57:48] [Server thread/INFO]: offgamer233 joined the game
-[18:57:48] [Server thread/INFO]: offgamer233[/127.242.21.161:48355] logged in with entity id 492 at ([world]20.919344567249688, 68.0, -7.661016811340952)
-[19:00:20] [User Authenticator #3/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
-[19:00:25] [Server thread/INFO]: elrubius joined the game
-[19:00:25] [Server thread/INFO]: elrubius[/127.242.21.161:43427] logged in with entity id 752 at ([world]0.5, 65.0, -8.5)
-[19:02:14] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
-[19:02:14] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
-[19:02:17] [Server thread/INFO]: [@: Teleported elrubius to 30.500000, 68.000000, -14.500000]
-[19:02:40] [Server thread/INFO]: offgamer233 issued server command: /time set day
-[19:02:40] [Server thread/INFO]: [offgamer233: Set the time to 1000]
-[19:02:42] [Server thread/INFO]: offgamer233 has made the advancement [Monster Hunter]
-[19:03:43] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
-[19:03:43] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
-[19:04:25] [Server thread/INFO]: offgamer233 issued server command: /team add ea
-[19:04:25] [Server thread/INFO]: [offgamer233: Created team [ea]]
-[19:04:31] [Server thread/INFO]: offgamer233 issued server command: /team join ea @a
-[19:04:31] [Server thread/INFO]: [offgamer233: Added 2 members to team [ea]]
-[19:04:43] [Server thread/INFO]: offgamer233 issued server command: /team modify ea collisionRule never
-[19:04:43] [Server thread/INFO]: [offgamer233: Collision rule for team [ea] is now "Never"]
-[19:04:49] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
-[19:04:49] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
-[19:05:09] [Server thread/INFO]: [@: Teleported elrubius to 30.500000, 68.000000, -14.500000]
-[19:05:09] [Server thread/INFO]: [@: Teleported elrubius to 30.500000, 68.000000, -18.500000]
-[19:05:12] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -14.500000]
-[19:05:12] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -18.500000]
-[19:05:26] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -14.500000]
-[19:05:26] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -18.500000]
-[19:05:33] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -14.500000]
-[19:05:33] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -18.500000]
-[19:05:37] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -14.500000]
-[19:05:37] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -18.500000]
-[19:05:40] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -14.500000]
-[19:05:40] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -18.500000]
-[19:06:13] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
-[19:06:13] [Server thread/INFO]: [offgamer233: Teleported elrubius to offgamer233]
-[19:06:16] [Server thread/INFO]: [@: Teleported elrubius to 30.500000, 68.000000, -14.500000]
-[19:06:16] [Server thread/INFO]: [@: Teleported offgamer233 to 30.500000, 68.000000, -18.500000]
-[19:06:31] [Server thread/INFO]: elrubius lost connection: Disconnected
-[19:06:31] [Server thread/INFO]: elrubius left the game
+[18:04:15] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:04:15] [Server thread/INFO]: Loading properties
+[18:04:15] [Server thread/INFO]: Default game type: SURVIVAL
+[18:04:15] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[18:04:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:04:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:04:15] [Server thread/INFO]: Debug logging is disabled
+[18:04:15] [Server thread/INFO]: Generating keypair
+[18:04:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:04:15] [Server thread/INFO]: Using epoll channel type
+[18:04:15] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[18:04:15] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[18:04:15] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[18:04:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:04:16] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:04:16] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:04:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:04:16] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[18:04:16] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[18:04:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:04:16] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[18:04:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:04:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:04:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:04:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:04:16] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[18:04:16] [Server thread/INFO]: Preparing level "world"
+[18:04:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:04:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:04:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:04:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:04:16] [Server thread/INFO]: Random Lighting Updates: false
+[18:04:16] [Server thread/INFO]: Structure Info Saving: true
+[18:04:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:04:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Mob Spawn Range: 4
+[18:04:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:04:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:04:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:04:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:04:16] [Server thread/INFO]: View Distance: 10
+[18:04:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:04:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:04:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:04:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:04:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:04:16] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:04:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:04:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:04:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:04:16] [Server thread/INFO]: Random Lighting Updates: false
+[18:04:16] [Server thread/INFO]: Structure Info Saving: true
+[18:04:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:04:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Mob Spawn Range: 4
+[18:04:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:04:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:04:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:04:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:04:16] [Server thread/INFO]: View Distance: 10
+[18:04:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:04:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:04:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:04:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:04:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:04:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:04:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:04:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:04:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:04:16] [Server thread/INFO]: Random Lighting Updates: false
+[18:04:16] [Server thread/INFO]: Structure Info Saving: true
+[18:04:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:04:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:04:16] [Server thread/INFO]: Mob Spawn Range: 4
+[18:04:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:04:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:04:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:04:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:04:16] [Server thread/INFO]: View Distance: 10
+[18:04:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:04:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:04:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:04:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:04:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:04:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6717818652897204607)
+[18:04:17] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2698767232770689743)
+[18:04:17] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2698767232770689743)
+[18:04:17] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[18:04:17] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[18:04:17] [Server thread/INFO]: Done (0.958s)! For help, type "help" or "?"
+[18:04:17] [Server thread/INFO]: Timings Reset
+[18:04:17] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[18:04:17] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[18:04:17] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_432). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:04:17] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:04:18] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[18:04:36] [User Authenticator #1/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:04:37] [Server thread/INFO]: offgamer233[/127.242.21.161:56021] logged in with entity id 11 at ([world]13.5, -1.0, -1.5)
+[18:04:37] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Ignoring incoming plugin channel register of 'fabric-screen-handler-api-v1:open_screen', as it is longer than 32 characters
+[18:04:42] [Server thread/INFO]: offgamer233 fell out of the world
+[18:04:44] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[18:04:44] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[18:04:47] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[18:04:47] [Server thread/INFO]: [offgamer233: Set own game mode to Creative Mode]
+[18:04:48] [Server thread/INFO]: offgamer233 fell out of the world
+[18:05:33] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Failed to get 1.12 item for 45
+[18:05:33] [Netty Epoll Server IO #2/WARN]: [ViaVersion] Failed to get 1.12 item for 45
+[18:05:47] [Server thread/INFO]: offgamer233 issued server command: /setworldspawn
+[18:05:47] [Server thread/INFO]: [offgamer233: Set the world spawn point to (8, 5, 8)]
+[18:05:54] [Server thread/INFO]: offgamer233 issued server command: /gamerule keepInventory
+[18:05:56] [Server thread/INFO]: offgamer233 issued server command: /gamerule keepInventory true
+[18:05:56] [Server thread/INFO]: [offgamer233: Game rule keepInventory has been updated to true]
+[18:05:58] [Server thread/INFO]: offgamer233 issued server command: /kill
+[18:05:58] [Server thread/INFO]: offgamer233 fell out of the world
+[18:05:58] [Server thread/INFO]: [offgamer233: Killed offgamer233]
+[18:06:05] [Server thread/INFO]: offgamer233 fell out of the world
+[18:06:27] [Server thread/INFO]: offgamer233 issued server command: /gamerule spawnRadius 1
+[18:06:27] [Server thread/INFO]: [offgamer233: Game rule spawnRadius has been updated to 1]
+[18:06:33] [Server thread/INFO]: offgamer233 issued server command: /kill
+[18:06:33] [Server thread/INFO]: offgamer233 fell out of the world
+[18:06:33] [Server thread/INFO]: [offgamer233: Killed offgamer233]
+[18:07:17] [Server thread/INFO]: offgamer233 issued server command: /kill
+[18:07:17] [Server thread/INFO]: offgamer233 fell out of the world
+[18:07:17] [Server thread/INFO]: [offgamer233: Killed offgamer233]
+[18:07:23] [Server thread/INFO]: offgamer233 issued server command: /kill
+[18:07:23] [Server thread/INFO]: offgamer233 fell out of the world
+[18:07:23] [Server thread/INFO]: [offgamer233: Killed offgamer233]
+[18:09:26] [Server thread/INFO]: offgamer233 issued server command: /setblock ~ ~ ~ minecraft:dirt
+[18:09:26] [Server thread/INFO]: [offgamer233: Block placed]
+[18:11:27] [Server thread/INFO]: offgamer233 issued server command: /reload
+[18:11:27] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:11:29] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[18:11:29] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[18:11:29] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[18:11:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:11:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:11:29] [Server thread/INFO]: Debug logging is disabled
+[18:11:29] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:11:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:11:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:11:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:11:29] [Server thread/INFO]: Random Lighting Updates: false
+[18:11:29] [Server thread/INFO]: Structure Info Saving: true
+[18:11:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:11:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Mob Spawn Range: 4
+[18:11:29] [Server thread/INFO]: Max TNT Explosions: 100
+[18:11:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:11:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:11:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:11:29] [Server thread/INFO]: View Distance: 10
+[18:11:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:11:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:11:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:11:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:11:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:11:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:11:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:11:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:11:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:11:29] [Server thread/INFO]: Random Lighting Updates: false
+[18:11:29] [Server thread/INFO]: Structure Info Saving: true
+[18:11:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:11:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Mob Spawn Range: 4
+[18:11:29] [Server thread/INFO]: Max TNT Explosions: 100
+[18:11:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:11:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:11:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:11:29] [Server thread/INFO]: View Distance: 10
+[18:11:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:11:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:11:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:11:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:11:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:11:29] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:11:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[18:11:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:11:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:11:29] [Server thread/INFO]: Random Lighting Updates: false
+[18:11:29] [Server thread/INFO]: Structure Info Saving: true
+[18:11:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:11:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:11:29] [Server thread/INFO]: Mob Spawn Range: 4
+[18:11:29] [Server thread/INFO]: Max TNT Explosions: 100
+[18:11:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:11:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:11:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:11:29] [Server thread/INFO]: View Distance: 10
+[18:11:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:11:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:11:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:11:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:11:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:11:29] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[18:11:29] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[18:11:29] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[18:11:29] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[18:11:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[18:11:29] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[18:11:29] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[18:11:29] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:11:29] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:11:30] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:11:30] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:11:30] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:11:30] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[18:11:30] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[18:11:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:11:30] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[18:11:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[18:11:30] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[18:11:30] [Server thread/INFO]: WEPIF: Updated config file
+[18:11:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:11:30] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[18:11:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[18:11:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[18:11:30] [Server thread/INFO]: offgamer233: Reload complete.
+[18:11:30] [Server thread/INFO]: Timings Reset
+[18:11:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[18:11:30] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[18:11:30] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 1.8.0_432). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:11:30] [Craft Scheduler Thread - 5/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:11:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[18:11:34] [Server thread/INFO]: offgamer233 issued server command: //wand
+[18:11:57] [Server thread/INFO]: offgamer233 issued server command: //set concrete
+[18:11:57] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_17To1_16_4 IN REMAP OF CHUNK_DATA (0x20)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_13To1_12_2 IN REMAP OF CHUNK_DATA (0x20)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.WorldPackets$$Lambda$586/90638761, Source 1: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$$Lambda$365/839430894
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.WorldPackets$$Lambda$586/90638761, Source 1: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$$Lambda$365/839430894
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.IllegalStateException: zip file closed
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.util.zip.ZipFile.ensureOpen(ZipFile.java:693)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.util.zip.ZipFile.getEntry(ZipFile.java:322)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.util.jar.JarFile.getEntry(JarFile.java:249)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.util.jar.JarFile.getJarEntry(JarFile.java:232)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:120)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:104)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.WorldPackets.writeMultiBlockChangePacket(WorldPackets.java:180)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.WorldPackets.lambda$register$1(WorldPackets.java:131)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.constructPacket(PacketWrapperImpl.java:335)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.send0(PacketWrapperImpl.java:276)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.send(PacketWrapperImpl.java:260)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.packet.PacketWrapper.send(PacketWrapper.java:178)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets.lambda$register$0(WorldPackets.java:458)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:395)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:45)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:328)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:307)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:57)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_13To1_12_2 IN REMAP OF MULTI_BLOCK_CHANGE (0x10)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$5 (Anonymous)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$5 (Anonymous)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.NullPointerException
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets.checkStorage(WorldPackets.java:592)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets.access$000(WorldPackets.java:57)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$5.lambda$register$0(WorldPackets.java:223)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.handle(PacketHandlers.java:158)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:395)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:45)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:328)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:307)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:57)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_13To1_12_2 IN REMAP OF MULTI_BLOCK_CHANGE (0x10)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$5 (Anonymous)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$5 (Anonymous)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.NullPointerException
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets.checkStorage(WorldPackets.java:592)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets.access$000(WorldPackets.java:57)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$5.lambda$register$0(WorldPackets.java:223)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.handle(PacketHandlers.java:158)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:395)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:45)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:328)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:307)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:57)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_13To1_12_2 IN REMAP OF CHUNK_DATA (0x20)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Packet Type: CHUNK_DATA, Type: Chunk, Index: 1, Data: [], Source 0: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$$Lambda$365/839430894, Packet ID: 34
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:106)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Packet Type: CHUNK_DATA, Type: Chunk, Index: 1, Data: [], Source 0: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$$Lambda$365/839430894, Packet ID: 34
+[18:11:57] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.NullPointerException
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_9_3to1_9_1_2.types.Chunk1_9_3_4Type.read(Chunk1_9_3_4Type.java:59)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_9_3to1_9_1_2.types.Chunk1_9_3_4Type.read(Chunk1_9_3_4Type.java:36)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.type.PartialType.read(PartialType.java:46)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.read(PacketWrapperImpl.java:145)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets.lambda$register$0(WorldPackets.java:336)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:395)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:45)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:328)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:307)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:57)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:88)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager$4.run(NetworkManager.java:215)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:309)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[18:11:57] [Netty Epoll Server IO #2/WARN]: 	at java.lang.Thread.run(Thread.java:750)
+[18:11:57] [Server thread/INFO]: offgamer233 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Source 0: com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.WorldPackets$$Lambda$586/90638761, Source 1: com.viaversion.viaversion.protocols.protocol1_13to1_12_2.packets.WorldPackets$$Lambda$365/839430894
+[18:11:57] [Server thread/INFO]: offgamer233 left the game
+[18:12:03] [User Authenticator #2/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[18:12:03] [Server thread/INFO]: offgamer233[/127.242.21.161:59951] logged in with entity id 12 at ([world]7.0016267728486286, 4.0, 8.98129418316724)
+[18:12:03] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[18:12:03] [Netty Epoll Server IO #3/WARN]: [ViaVersion] Ignoring incoming plugin channel register of 'fabric-screen-handler-api-v1:open_screen', as it is longer than 32 characters
+[18:12:54] [Server thread/INFO]: offgamer233 issued server command: //set 251:7
