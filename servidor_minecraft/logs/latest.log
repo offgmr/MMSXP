@@ -950,3 +950,11 @@ Source 0: com.viaversion.viaversion.rewriter.ComponentRewriter$$Lambda$1624/1709
 [18:43:21] [Server thread/INFO]: [offgamer233: 1 blocks filled]
 [18:43:21] [Server thread/INFO]: [offgamer233: Block placed]
 [18:43:21] [Server thread/INFO]: [offgamer233: Executed 6 command(s) from function 'elevator_gshn28:model_select_3']
+[18:53:11] [Server thread/INFO]: offgamer233 issued server command: /give @p Diamond_sword{Encantamientos:[{id:sharpness,lvl:10000}]}
+[18:53:11] [Server thread/INFO]: [offgamer233: There is no such item with name diamond_sword{encantamientos:[{id:sharpness,lvl:10000}]}]
+[18:53:32] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 Diamond_sword{Encantamientos:[{id:sharpness,lvl:10000}]}
+[18:53:32] [Server thread/INFO]: [offgamer233: There is no such item with name diamond_sword{encantamientos:[{id:sharpness,lvl:10000}]}]
+[18:53:41] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 Diamond_sword{Enchantments:[{id:sharpness,lvl:10000}]}
+[18:53:41] [Server thread/INFO]: [offgamer233: There is no such item with name diamond_sword{enchantments:[{id:sharpness,lvl:10000}]}]
+[18:54:23] [Server thread/INFO]: offgamer233 issued server command: /give @p diamond_sword{display:{Name:'[{"text":"[ ","italic":false,"color":"white"},{"text":"+","obfuscated":true,"color":"dark_red"},{"text":" Maty Sword ","color":"yellow"},{"text":"+","color":"white"
+[18:54:23] [Server thread/INFO]: [offgamer233: There is no such item with name diamond_sword{display:{name:'[{"text":"[]
