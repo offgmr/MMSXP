@@ -671,3 +671,34 @@ Source 0: com.viaversion.viaversion.protocols.protocol1_17to1_16_4.packets.World
 [18:24:06] [Server thread/INFO]: offgamer233 issued server command: /setblock ~ ~ ~ dirt
 [18:24:06] [Server thread/INFO]: [offgamer233: Block placed]
 [18:24:29] [Server thread/INFO]: offgamer233 issued server command: //copy
+[18:24:37] [Server thread/INFO]: offgamer233 issued server command: //schematic save
+[18:24:44] [Server thread/INFO]: offgamer233 issued server command: //schematic save HOYO
+[18:24:44] [Server thread/INFO]: [WorldEdit] offgamer233 saved /workspaces/MMSXP/servidor_minecraft/plugins/WorldEdit/schematics/HOYO.schematic
+[18:24:54] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:25:00] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:25:07] [Server thread/INFO]: offgamer233 issued server command: //pos1
+[18:25:14] [Server thread/INFO]: offgamer233 issued server command: //pos2
+[18:25:18] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:25:26] [Server thread/INFO]: offgamer233 issued server command: /setblock ~ ~ ~ dirt
+[18:25:26] [Server thread/INFO]: [offgamer233: Block placed]
+[18:25:32] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:25:40] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:26:02] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:26:29] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:28:11] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[18:28:11] [Server thread/INFO]: [offgamer233: Set the time to 1000]
+[18:28:21] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:28:38] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:28:49] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:28:57] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:29:04] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:29:50] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:30:58] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:31:10] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:31:19] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:31:31] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:32:07] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:32:23] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:32:34] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:32:56] [Server thread/INFO]: offgamer233 issued server command: //paste
+[18:33:04] [Server thread/INFO]: offgamer233 issued server command: //paste
