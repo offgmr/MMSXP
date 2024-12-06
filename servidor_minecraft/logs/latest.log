@@ -1188,3 +1188,5 @@ Source 0: com.viaversion.viaversion.rewriter.ComponentRewriter$$Lambda$1624/1709
 [19:41:43] [Server thread/INFO]: [offgamer233: Entity '@e[name=elevator,r=10,c=1]' cannot be found]
 [19:41:44] [Server thread/INFO]: offgamer233 issued server command: /execute @e[name=elevator,r=10,c=1] ~ ~ ~ function elevator_gshn28:change_model_panoramic
 [19:41:44] [Server thread/INFO]: [offgamer233: Entity '@e[name=elevator,r=10,c=1]' cannot be found]
+[19:45:02] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[19:45:02] [Server thread/INFO]: offgamer233 left the game
