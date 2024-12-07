@@ -1,0 +1,82 @@
+texture: c8e16e7ff13d3e30a3a2b835a86fd05ecbc08909f6056de1646fe25b3def9584
+name: '&fWhite LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : IRON_GOLEM : 1'
+  - 'ENTITY : SKELETON : 2'
+  - 'ENTITY : SHULKER_BULLET : 1'
+  '1':
+  - 'ITEM : BRAIN_CORAL : 64 : 0'
+  - 'ITEM : LIME_CARPET : 16 : 0'
+  '2':
+  - 'ITEM : QUARTZ_BLOCK : 32 : 0'
+  - 'SPECIAL : PIG : 4'
+  '3':
+  - 'ITEM : IRON_HELMET : 1 : 0'
+  - 'ITEM : CHICKEN : 16 : 0'
+  - 'ITEM : IRON_CHESTPLATE : 1 : 0'
+  - 'ITEM : QUARTZ_BLOCK : 32 : 0'
+  '4':
+  - 'ITEM : GRAY_CARPET : 16 : 0'
+  - 'ITEM : LIGHT_BLUE_CONCRETE_POWDER : 32 : 0'
+  - 'ITEM : PURPLE_SHULKER_BOX : 1 : 0'
+  '5':
+  - 'ENTITY : AREA_EFFECT_CLOUD : 1'
+  '6':
+  - 'ITEM : ZOMBIE_PIGMAN_SPAWN_EGG : 18 : 0'
+  '7':
+  - 'ENTITY : MINECART_FURNACE : 1'
+  - 'SPECIAL : PIG : 4'
+  '8':
+  - 'ITEM : STICK : 18 : 0'
+  - 'SPECIAL : PIG : 4'
+  '9':
+  - 'ITEM : BUBBLE_CORAL : 64 : 0'
+  - 'ITEM : TURTLE_EGG : 8 : 0'
+  '10':
+  - 'ENTITY : LLAMA : 4'
+  - 'ITEM : STRING : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : ICED : 3'
+  '11':
+  - 'ENTITY : ENDER_PEARL : 2'
+  - 'LUCKY_BLOCK_ITEM : ICED : 4'
+  - 'ITEM : COBBLESTONE_WALL : 64 : 0'
+  '12':
+  - 'ENTITY : PANDA : 1'
+  - 'ITEM : ACACIA_FENCE : 16 : 0'
+  - 'ENTITY : SPIDER : 1'
+  '13':
+  - 'ENTITY : MINECART_HOPPER : 3'
+  '14':
+  - 'ENTITY : ARROW : 1'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : ARMOR_STAND : 2'
+  - 'ENTITY : ENDER_DRAGON : 4'
+  '15':
+  - 'ENTITY : CREEPER : 1'
+  '16':
+  - 'ITEM : BIRCH_BOAT : 1 : 0'
+  - 'ITEM : MYCELIUM : 32 : 0'
+  - 'ENTITY : AREA_EFFECT_CLOUD : 2'
+  '17':
+  - 'ITEM : BLACK_BANNER : 16 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : PRISMARINE_WALL : 16 : 0'
+  '18':
+  - 'ITEM : WHITE_CONCRETE : 32 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : ACTIVATOR_RAIL : 16 : 0'
+  '19':
+  - 'ENTITY : DOLPHIN : 2'
+  - 'ENTITY : PHANTOM : 3'
+eco: true

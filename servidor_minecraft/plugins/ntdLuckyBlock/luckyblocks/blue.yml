@@ -1,0 +1,113 @@
+texture: 8534b17d2d3b5a64c57f5f080dd777945761d9f71d82e8f599f242976e4d0c05
+name: '&1Blue LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : ACACIA_BOAT : 1 : 0'
+  - 'ITEM : BLUE_ORCHID : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 3'
+  '1':
+  - 'ENTITY : EVOKER : 3'
+  - 'ITEM : YELLOW_TERRACOTTA : 16 : 0'
+  - 'ITEM : GLISTERING_MELON_SLICE : 19 : 0'
+  '2':
+  - 'ITEM : IRON_INGOT : 2 : 0'
+  - 'ITEM : SKELETON_SKULL : 16 : 0'
+  '3':
+  - 'ITEM : POLISHED_ANDESITE_SLAB : 64 : 0'
+  '4':
+  - 'LUCKY_BLOCK_ITEM : PINK : 4'
+  - 'SPECIAL : LIGHTNING : 3'
+  '5':
+  - 'ITEM : YELLOW_WOOL : 64 : 0'
+  '6':
+  - 'ITEM : SMOOTH_STONE : 32 : 0'
+  - 'ENTITY : VEX : 4'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 1'
+  - 'ITEM : INFESTED_STONE : 64 : 0'
+  '7':
+  - 'SPECIAL : PIG : 22'
+  - 'ENTITY : WANDERING_TRADER : 4'
+  - 'ENTITY : WOLF : 1'
+  - 'ENTITY : WOLF : 1'
+  '8':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 3'
+  - 'ITEM : MOSSY_COBBLESTONE : 64 : 0'
+  - 'ITEM : SPRUCE_LEAVES : 64 : 0'
+  '9':
+  - 'ENTITY : DOLPHIN : 1'
+  - 'ITEM : PILLAGER_SPAWN_EGG : 9 : 0'
+  - 'ITEM : POLISHED_ANDESITE : 16 : 0'
+  '10':
+  - 'ENTITY : MINECART_CHEST : 1'
+  '11':
+  - 'ENTITY : POLAR_BEAR : 4'
+  - 'ENTITY : TRIDENT : 2'
+  - 'ITEM : LIGHT_BLUE_SHULKER_BOX : 1 : 0'
+  '12':
+  - 'ENTITY : SPECTRAL_ARROW : 2'
+  '13':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  - 'ITEM : DEAD_FIRE_CORAL : 8 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '15':
+  - 'ENTITY : MINECART_FURNACE : 1'
+  '16':
+  - 'ITEM : MUSIC_DISC_CAT : 1 : 0'
+  '17':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  - 'ITEM : LIME_BED : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 3'
+  '18':
+  - 'ITEM : OAK_DOOR : 8 : 0'
+  - 'ITEM : GRAY_CONCRETE_POWDER : 32 : 0'
+  - 'ITEM : YELLOW_GLAZED_TERRACOTTA : 32 : 0'
+  '19':
+  - 'ENTITY : ARMOR_STAND : 2'
+  - 'ITEM : PISTON : 8 : 0'
+  - 'ITEM : FERMENTED_SPIDER_EYE : 4 : 0'
+  - 'ENTITY : COW : 1'
+  '20':
+  - 'ENTITY : AREA_EFFECT_CLOUD : 2'
+  - 'ITEM : COMMAND_BLOCK_MINECART : 1 : 0'
+  '21':
+  - 'ITEM : BROWN_WOOL : 32 : 0'
+  - 'ITEM : WOODEN_SHOVEL : 1 : 0'
+  '22':
+  - 'ENTITY : PHANTOM : 3'
+  - 'ENTITY : BOAT : 4'
+  - 'ENTITY : LLAMA_SPIT : 2'
+  - 'ENTITY : MAGMA_CUBE : 2'
+  '23':
+  - 'ENTITY : ZOMBIE_HORSE : 1'
+  - 'ENTITY : ZOMBIE : 1'
+  - 'ENTITY : TRIDENT : 1'
+  - 'ITEM : PINK_SHULKER_BOX : 1 : 0'
+  '24':
+  - 'ITEM : MUSIC_DISC_WAIT : 1 : 0'
+  - 'ITEM : BLUE_ICE : 64 : 0'
+  - 'ITEM : SPLASH_POTION : 1 : 0'
+  - 'ENTITY : EGG : 4'
+  '25':
+  - 'ENTITY : WANDERING_TRADER : 4'
+  '26':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '27':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : NOTE_BLOCK : 16 : 0'
+  - 'ITEM : STONECUTTER : 64 : 0'
+  '28':
+  - 'ITEM : BONE_BLOCK : 16 : 0'
+  - 'ITEM : ALLIUM : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 1'
+eco: true

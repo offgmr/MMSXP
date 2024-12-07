@@ -1,0 +1,141 @@
+texture: 1f23685c697ba55edda425ecf1fec72feeb7bb985c6506b2cef070515e4e5492
+name: '&dMagenta LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : BLACK_CONCRETE_POWDER : 64 : 0'
+  - 'ENTITY : ENDER_DRAGON : 4'
+  '1':
+  - 'ITEM : WHITE_TERRACOTTA : 8 : 0'
+  '2':
+  - 'ITEM : PURPLE_DYE : 13 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '3':
+  - 'ENTITY : LLAMA : 2'
+  - 'ENTITY : ENDER_DRAGON : 1'
+  '4':
+  - 'ITEM : RED_SANDSTONE_SLAB : 8 : 0'
+  - 'ITEM : LIGHT_BLUE_SHULKER_BOX : 1 : 0'
+  - 'ENTITY : SHULKER : 2'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'ITEM : GUARDIAN_SPAWN_EGG : 5 : 0'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 2'
+  - 'ITEM : HONEY_BLOCK : 8 : 0'
+  '6':
+  - 'ITEM : MELON_SEEDS : 39 : 0'
+  '7':
+  - 'ITEM : IRON_HORSE_ARMOR : 1 : 0'
+  - 'ITEM : HORSE_SPAWN_EGG : 51 : 0'
+  - 'ITEM : LIGHT_GRAY_BANNER : 16 : 0'
+  - 'ITEM : DIAMOND_BLOCK : 16 : 0'
+  '8':
+  - 'ITEM : MAGENTA_STAINED_GLASS_PANE : 32 : 0'
+  - 'ENTITY : RAVAGER : 4'
+  '9':
+  - 'ITEM : BAMBOO : 64 : 0'
+  '10':
+  - 'ENTITY : COW : 1'
+  - 'ITEM : MUSIC_DISC_BLOCKS : 1 : 0'
+  - 'ITEM : PURPLE_WOOL : 64 : 0'
+  - 'ITEM : SPRUCE_TRAPDOOR : 64 : 0'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  '12':
+  - 'ENTITY : GUARDIAN : 3'
+  - 'ITEM : ORANGE_CONCRETE : 8 : 0'
+  - 'ENTITY : WANDERING_TRADER : 3'
+  - 'ITEM : ANVIL : 16 : 0'
+  '13':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 1'
+  '14':
+  - 'ITEM : POLISHED_ANDESITE_SLAB : 16 : 0'
+  '15':
+  - 'ENTITY : GHAST : 4'
+  '16':
+  - 'ITEM : MUSIC_DISC_FAR : 1 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : PIG : 2'
+  '17':
+  - 'ITEM : FLINT : 30 : 0'
+  - 'SPECIAL : PIG : 4'
+  '18':
+  - 'ITEM : WOODEN_AXE : 1 : 0'
+  '19':
+  - 'ITEM : MELON : 64 : 0'
+  - 'ITEM : BLACK_CONCRETE_POWDER : 32 : 0'
+  '20':
+  - 'SPECIAL : PIG : 4'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : STRIPPED_JUNGLE_WOOD : 32 : 0'
+  '21':
+  - 'ITEM : OAK_PLANKS : 16 : 0'
+  '22':
+  - 'ENTITY : WITHER : 4'
+  - 'ENTITY : GIANT : 2'
+  - 'ITEM : CHISELED_SANDSTONE : 64 : 0'
+  - 'ITEM : BROWN_BANNER : 8 : 0'
+  '23':
+  - 'ENTITY : VILLAGER : 2'
+  - 'ITEM : SMOOTH_STONE_SLAB : 8 : 0'
+  - 'ITEM : OAK_SLAB : 64 : 0'
+  '24':
+  - 'ITEM : GREEN_CONCRETE : 16 : 0'
+  - 'ITEM : FIRE_CHARGE : 32 : 0'
+  '25':
+  - 'ITEM : BIRCH_WOOD : 8 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '26':
+  - 'ITEM : GREEN_SHULKER_BOX : 1 : 0'
+  - 'ITEM : ARROW : 53 : 0'
+  '27':
+  - 'ITEM : COMPASS : 49 : 0'
+  - 'ENTITY : ENDER_SIGNAL : 4'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 4'
+  '29':
+  - 'ITEM : SMOKER : 64 : 0'
+  '30':
+  - 'ITEM : END_PORTAL_FRAME : 8 : 0'
+  '31':
+  - 'ITEM : BUCKET : 8 : 0'
+  - 'ITEM : SLIME_SPAWN_EGG : 11 : 0'
+  '32':
+  - 'LUCKY_BLOCK_ITEM : BLUE : 2'
+  '33':
+  - 'ITEM : WOLF_SPAWN_EGG : 36 : 0'
+  - 'ENTITY : SHULKER : 4'
+  '34':
+  - 'ITEM : POWERED_RAIL : 16 : 0'
+  '35':
+  - 'ITEM : BLACK_CONCRETE : 8 : 0'
+  - 'ITEM : GRAY_CONCRETE : 64 : 0'
+  '36':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : FURNACE : 64 : 0'
+  - 'ITEM : GREEN_WOOL : 8 : 0'
+  '37':
+  - 'ITEM : HONEY_BOTTLE : 11 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '38':
+  - 'ENTITY : VEX : 4'
+  - 'ITEM : GREEN_CONCRETE : 8 : 0'
+  - 'ENTITY : MINECART_HOPPER : 2'
+  '39':
+  - 'ITEM : DRIED_KELP_BLOCK : 64 : 0'
+  - 'ITEM : JUNGLE_FENCE : 64 : 0'
+  '40':
+  - 'ENTITY : EVOKER_FANGS : 2'
+  - 'ENTITY : PHANTOM : 3'
+  '41':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 1'
+  - 'ITEM : GOLDEN_APPLE : 19 : 0'
+eco: true

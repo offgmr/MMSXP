@@ -1,0 +1,83 @@
+texture: 300c817432585fadcbd9ca8cfedfeedbce5851b7c07d1b073fb52fa8283e8f23
+name: '&3Cyan LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : BONE_MEAL : 10 : 0'
+  - 'ITEM : LIME_BED : 1 : 0'
+  '1':
+  - 'ITEM : SHULKER_SHELL : 55 : 0'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 1'
+  - 'ITEM : FLETCHING_TABLE : 64 : 0'
+  '2':
+  - 'ENTITY : COD : 1'
+  - 'ITEM : BELL : 8 : 0'
+  '3':
+  - 'ITEM : BLACK_STAINED_GLASS : 32 : 0'
+  '4':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  - 'ENTITY : SNOWBALL : 1'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 2'
+  - 'ITEM : BLUE_BANNER : 16 : 0'
+  - 'ITEM : OAK_DOOR : 8 : 0'
+  '6':
+  - 'ITEM : DEAD_BRAIN_CORAL_BLOCK : 8 : 0'
+  - 'ITEM : END_STONE_BRICKS : 64 : 0'
+  - 'ITEM : GREEN_STAINED_GLASS : 64 : 0'
+  '7':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '8':
+  - 'ITEM : ANDESITE : 16 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '9':
+  - 'ENTITY : ENDERMAN : 2'
+  - 'ITEM : BLUE_CONCRETE : 16 : 0'
+  - 'ENTITY : LEASH_HITCH : 4'
+  '10':
+  - 'ENTITY : TROPICAL_FISH : 2'
+  '11':
+  - 'ITEM : YELLOW_SHULKER_BOX : 1 : 0'
+  '12':
+  - 'ITEM : TUBE_CORAL_FAN : 16 : 0'
+  '13':
+  - 'ITEM : TORCH : 32 : 0'
+  - 'ITEM : GUNPOWDER : 57 : 0'
+  - 'ITEM : AZURE_BLUET : 16 : 0'
+  '14':
+  - 'ENTITY : ILLUSIONER : 1'
+  '15':
+  - 'ITEM : LIME_TERRACOTTA : 8 : 0'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 1'
+  - 'ITEM : DEAD_BUSH : 8 : 0'
+  '17':
+  - 'ENTITY : COW : 3'
+  '18':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : SKELETON_HORSE : 2'
+  - 'ITEM : SPLASH_POTION : 1 : 0'
+  - 'ENTITY : GIANT : 3'
+  '19':
+  - 'ENTITY : WOLF : 3'
+  - 'ENTITY : EXPERIENCE_ORB : 3'
+  '20':
+  - 'ITEM : HORN_CORAL : 8 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : PHANTOM : 1'
+  '21':
+  - 'ITEM : VINE : 8 : 0'
+  - 'ENTITY : LEASH_HITCH : 1'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '22':
+  - 'ENTITY : WITHER : 1'
+  - 'ENTITY : PANDA : 4'
+eco: true

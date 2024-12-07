@@ -1,0 +1,84 @@
+texture: c133414759f9e5315156017023a8b1b31cfbf177dcafb0603b8e9d94036a23f1
+name: '&cBrown LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : DEAD_BUSH : 32 : 0'
+  - 'ENTITY : BLAZE : 4'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : ICE : 16 : 0'
+  '1':
+  - 'ENTITY : CHICKEN : 3'
+  - 'ITEM : BRAIN_CORAL_BLOCK : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  '2':
+  - 'ITEM : GREEN_BANNER : 16 : 0'
+  - 'ITEM : DARK_OAK_BUTTON : 32 : 0'
+  '3':
+  - 'LUCKY_BLOCK_ITEM : ICED : 3'
+  - 'ITEM : ACACIA_TRAPDOOR : 8 : 0'
+  '4':
+  - 'ITEM : POTION : 1 : 0'
+  - 'ITEM : BROWN_STAINED_GLASS : 16 : 0'
+  - 'ITEM : HORN_CORAL_BLOCK : 16 : 0'
+  '5':
+  - 'ITEM : LAPIS_ORE : 32 : 0'
+  '6':
+  - 'ENTITY : RABBIT : 1'
+  '7':
+  - 'ENTITY : ENDER_SIGNAL : 2'
+  - 'LUCKY_BLOCK_ITEM : LIME : 1'
+  - 'ENTITY : PILLAGER : 2'
+  '8':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'LUCKY_BLOCK_ITEM : RED : 3'
+  '9':
+  - 'ITEM : STRIPPED_SPRUCE_LOG : 16 : 0'
+  - 'ENTITY : ZOMBIE_VILLAGER : 1'
+  - 'ITEM : CHISELED_SANDSTONE : 16 : 0'
+  '10':
+  - 'ITEM : GUNPOWDER : 28 : 0'
+  - 'LUCKY_BLOCK_ITEM : PINK : 1'
+  '11':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : MELON_SEEDS : 34 : 0'
+  '12':
+  - 'ENTITY : MINECART_HOPPER : 2'
+  - 'ENTITY : GIANT : 2'
+  '13':
+  - 'ITEM : GREEN_BED : 1 : 0'
+  - 'ITEM : LIGHT_GRAY_CARPET : 32 : 0'
+  - 'ITEM : REDSTONE : 55 : 0'
+  '14':
+  - 'ITEM : JUNGLE_PRESSURE_PLATE : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ENTITY : MAGMA_CUBE : 3'
+  - 'ITEM : WHITE_TERRACOTTA : 64 : 0'
+  '15':
+  - 'ITEM : SEA_PICKLE : 32 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '16':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 3'
+  '17':
+  - 'ENTITY : STRAY : 1'
+  '18':
+  - 'LUCKY_BLOCK_ITEM : RED : 4'
+  '19':
+  - 'ENTITY : MINECART : 2'
+  - 'ITEM : CHICKEN : 37 : 0'
+  - 'ENTITY : ENDER_CRYSTAL : 4'
+  '20':
+  - 'LUCKY_BLOCK_ITEM : LIME : 1'
+  - 'ENTITY : ENDER_DRAGON : 1'
+  - 'ITEM : FEATHER : 10 : 0'
+eco: true

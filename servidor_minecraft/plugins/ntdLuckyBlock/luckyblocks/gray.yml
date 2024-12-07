@@ -1,0 +1,104 @@
+texture: f171a0c0572824da80366d71c5413a7e3355abec79b8f529f1dc9dad2632f485
+name: '&8Gray LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : PIG : 6'
+  - 'ENTITY : LLAMA : 3'
+  '1':
+  - 'ITEM : CUT_RED_SANDSTONE_SLAB : 32 : 0'
+  '2':
+  - 'LUCKY_BLOCK_ITEM : PINK : 4'
+  '3':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : COW : 4'
+  '4':
+  - 'ENTITY : WITCH : 2'
+  - 'ITEM : INFESTED_COBBLESTONE : 32 : 0'
+  '5':
+  - 'ENTITY : RABBIT : 3'
+  '6':
+  - 'ENTITY : PHANTOM : 4'
+  - 'ENTITY : TRIDENT : 4'
+  - 'ITEM : RED_MUSHROOM_BLOCK : 16 : 0'
+  '7':
+  - 'ITEM : RED_SANDSTONE_SLAB : 64 : 0'
+  '8':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : TRIDENT : 3'
+  - 'ITEM : RAIL : 16 : 0'
+  '9':
+  - 'ITEM : IRON_BOOTS : 1 : 0'
+  '10':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '11':
+  - 'ITEM : INFESTED_COBBLESTONE : 32 : 0'
+  - 'ENTITY : SILVERFISH : 1'
+  '12':
+  - 'ENTITY : ZOMBIE_HORSE : 2'
+  - 'ITEM : MOSSY_STONE_BRICK_SLAB : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : ICED : 1'
+  '13':
+  - 'ITEM : END_CRYSTAL : 28 : 0'
+  - 'ENTITY : MAGMA_CUBE : 2'
+  '14':
+  - 'ITEM : LEATHER_HELMET : 1 : 0'
+  - 'ENTITY : TRADER_LLAMA : 4'
+  '15':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 1'
+  - 'ITEM : END_STONE_BRICKS : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 2'
+  '16':
+  - 'ITEM : BRAIN_CORAL_FAN : 8 : 0'
+  - 'ITEM : BLUE_STAINED_GLASS_PANE : 64 : 0'
+  '17':
+  - 'ENTITY : CHICKEN : 4'
+  - 'ENTITY : LLAMA_SPIT : 1'
+  - 'ENTITY : ILLUSIONER : 2'
+  '18':
+  - 'ITEM : PISTON : 64 : 0'
+  '19':
+  - 'ITEM : CREEPER_SPAWN_EGG : 64 : 0'
+  - 'ITEM : PRISMARINE_WALL : 16 : 0'
+  '20':
+  - 'ENTITY : ITEM_FRAME : 2'
+  '21':
+  - 'ITEM : HONEY_BOTTLE : 7 : 0'
+  - 'ITEM : PISTON : 8 : 0'
+  - 'SPECIAL : PIG : 4'
+  '22':
+  - 'ITEM : POISONOUS_POTATO : 40 : 0'
+  - 'ITEM : SPRUCE_WOOD : 8 : 0'
+  '23':
+  - 'ITEM : RABBIT_HIDE : 61 : 0'
+  '24':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'ITEM : IRON_AXE : 1 : 0'
+  '25':
+  - 'ITEM : OAK_DOOR : 32 : 0'
+  '26':
+  - 'ITEM : GREEN_GLAZED_TERRACOTTA : 8 : 0'
+  - 'ENTITY : ARMOR_STAND : 1'
+  '27':
+  - 'ENTITY : SMALL_FIREBALL : 3'
+  - 'ITEM : MUSIC_DISC_BLOCKS : 1 : 0'
+  '28':
+  - 'ITEM : SMOOTH_QUARTZ : 16 : 0'
+  - 'ITEM : PURPLE_CONCRETE_POWDER : 8 : 0'
+  '29':
+  - 'ITEM : PINK_CONCRETE : 16 : 0'
+  - 'ENTITY : GUARDIAN : 4'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ITEM : TALL_GRASS : 8 : 0'
+  '30':
+  - 'ITEM : BLAZE_POWDER : 54 : 0'
+  - 'ENTITY : GUARDIAN : 3'
+eco: true
