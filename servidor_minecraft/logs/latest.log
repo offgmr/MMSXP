@@ -1052,3 +1052,19 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [18:43:30] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
 [18:44:14] [Server thread/INFO]: [ELITE] offgamer233 fell out of the world
 [18:44:20] [Server thread/INFO]: offgamer233 issued server command: //wand
+[18:45:51] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:45:55] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 3
+[18:52:48] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[18:52:52] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[18:52:52] [Server thread/INFO]: elrubius fell out of the world
+[18:52:57] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[18:54:01] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[18:54:11] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[18:54:29] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 18
+[18:54:56] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[18:54:58] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[18:55:05] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:55:10] [Server thread/INFO]: elrubius fell from a high place
+[18:55:23] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[18:55:38] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:55:41] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 4
