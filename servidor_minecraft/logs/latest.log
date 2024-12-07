@@ -839,3 +839,24 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [17:52:24] [Server thread/INFO]: offgamer233[/127.242.21.161:37945] logged in with entity id 50 at ([world]9.280304166576057, 10.0, 6.126726608290043)
 [17:54:34] [Server thread/INFO]: offgamer233 issued server command: /time set day
 [17:54:42] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:structure_block
+[17:56:16] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
+[17:56:22] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[17:56:32] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 16
+[17:57:16] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 14
+[17:57:24] [Async Chat Thread - #2/INFO]: <offgamer233> asdad
+[17:57:27] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 16
+[17:57:31] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[17:59:10] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
+[17:59:15] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[17:59:33] [Server thread/INFO]: offgamer233 issued server command: //wand
+[17:59:44] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:00:19] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:02:20] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[18:02:32] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[18:03:08] [Server thread/INFO]: offgamer233 issued server command: //replace stone air
+[18:03:30] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
+[18:03:36] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:03:50] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:04:21] [Server thread/INFO]: offgamer233 issued server command: //replace stone air
+[18:05:04] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
+[18:05:10] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
