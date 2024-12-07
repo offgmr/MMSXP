@@ -532,3 +532,25 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [22:38:15] [Craft Scheduler Thread - 43/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [22:39:15] [Craft Scheduler Thread - 49/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [22:40:15] [Craft Scheduler Thread - 55/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:41:15] [Craft Scheduler Thread - 61/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:42:15] [Craft Scheduler Thread - 67/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:42:23] [Server thread/INFO]: offgamer233 issued server command: /papi ecloud download WorldGuard
+[22:42:23] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:42:31] [Server thread/INFO]: offgamer233 issued server command: /papi reload
+[22:42:31] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:42:31] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:42:31] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.sk89q.worldguard.WorldGuard from WorldGuard v7.0.3;5407315 which is not a depend, softdepend or loadbefore of this plugin.
+[22:42:31] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.sk89q.worldedit.world.World from WorldEdit v7.2.14+6360-094b734 which is not a depend, softdepend or loadbefore of this plugin.
+[22:42:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: worldguard [1.4.2]
+[22:43:15] [Craft Scheduler Thread - 73/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:43:20] [Server thread/INFO]: offgamer233 issued server command: /luckyblock give offgamer233 YELLOW 1
+[22:44:15] [Craft Scheduler Thread - 79/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:45:15] [Craft Scheduler Thread - 85/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:46:15] [Craft Scheduler Thread - 91/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:47:15] [Craft Scheduler Thread - 97/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:48:15] [Craft Scheduler Thread - 103/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:49:15] [Craft Scheduler Thread - 109/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:49:46] [Server thread/INFO]: offgamer233 issued server command: /setblock 4 10 8 air
+[22:49:51] [Server thread/INFO]: offgamer233 issued server command: /deop
+[22:50:03] [Server thread/INFO]: offgamer233 issued server command: /gamemode survival
+[22:50:15] [Craft Scheduler Thread - 115/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
