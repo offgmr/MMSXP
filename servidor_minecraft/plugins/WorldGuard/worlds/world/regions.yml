@@ -15,7 +15,7 @@ regions:
         max: {x: 21, y: 110, z: 30}
         members: {}
         flags: {sleep: allow, ntd-lb-break: allow, use: allow, interact: allow, pvp: allow,
-            chest-access: allow}
+            chest-access: allow, block-place: allow}
         owners: {}
         type: cuboid
         priority: 0
