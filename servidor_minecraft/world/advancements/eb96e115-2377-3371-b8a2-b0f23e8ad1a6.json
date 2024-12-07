@@ -1,128 +1,135 @@
 {
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_redstone_block": "2024-12-06 18:15:46 +0000"
+      "has_redstone_block": "2024-12-06 21:43:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/noteblock": {
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
-      "has_redstone": "2024-12-06 18:45:01 +0000"
+      "has_honey_bottle": "2024-12-06 21:44:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_bow": "2024-12-06 18:48:56 +0000"
+      "has_bow": "2024-12-06 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-06 21:44:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_redstone": "2024-12-06 18:45:01 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_cooked_rabbit": "2024-12-06 18:45:22 +0000"
+      "in_water": "2024-12-06 21:34:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_redstone": "2024-12-06 18:45:01 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_carrot": "2024-12-06 18:45:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-06 18:35:56 +0000"
+      "in_water": "2024-12-06 21:34:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_redstone": "2024-12-06 18:45:01 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "crafting_table": "2024-12-06 18:17:05 +0000"
+      "has_lots_of_items": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_red_flower": "2024-12-06 18:48:33 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_stone": "2024-12-06 18:05:33 +0000"
+      "in_water": "2024-12-06 21:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 21:34:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_redstone": "2024-12-06 18:45:01 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_at_least_9_redstone": "2024-12-06 18:45:01 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stonebrick": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_stone": "2024-12-06 18:05:33 +0000"
+      "has_cod": "2024-12-06 21:44:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_redstone": "2024-12-06 18:45:01 +0000"
+      "has_redstone": "2024-12-06 21:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_stone": "2024-12-06 18:05:33 +0000"
+      "has_cod": "2024-12-06 21:44:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_stone": "2024-12-06 18:05:33 +0000"
+      "in_water": "2024-12-06 21:34:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-06 18:17:55 +0000"
+      "has_cod": "2024-12-06 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 21:34:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_water_bucket": "2024-12-06 18:14:06 +0000"
+      "has_water_bucket": "2024-12-06 21:34:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2024-12-06 18:45:22 +0000"
-    },
-    "done": true
-  }
+  "DataVersion": 2230
 }
