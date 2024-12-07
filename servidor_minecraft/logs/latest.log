@@ -860,3 +860,11 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [18:04:21] [Server thread/INFO]: offgamer233 issued server command: //replace stone air
 [18:05:04] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
 [18:05:10] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:05:50] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[18:09:37] [Server thread/INFO]: offgamer233 issued server command: /team add ADMIN
+[18:09:49] [Server thread/INFO]: offgamer233 issued server command: /team modify ADMIN color green
+[18:09:55] [Server thread/INFO]: offgamer233 issued server command: /team join ADMIN offgamer233
+[18:10:25] [Server thread/INFO]: offgamer233 issued server command: /team remove ADMIN
+[18:10:30] [Server thread/INFO]: offgamer233 issued server command: /team list
+[18:11:49] [Server thread/INFO]: offgamer233 issued server command: /team join ADMIN
+[18:13:52] [Server thread/INFO]: offgamer233 issued server command: /tp @a[team=ADMIN] 0 0 0
