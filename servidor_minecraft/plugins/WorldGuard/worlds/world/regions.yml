@@ -14,7 +14,7 @@ regions:
         min: {x: -7, y: 1, z: -4}
         max: {x: 21, y: 110, z: 30}
         members: {}
-        flags: {sleep: allow, use: allow, chest-access: allow, pvp: allow}
+        flags: {sleep: allow, use: allow, interact: allow, chest-access: allow, pvp: allow}
         owners: {}
         type: cuboid
         priority: 0
