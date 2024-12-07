@@ -1081,3 +1081,7 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [19:05:10] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@1eeb527e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
 [19:05:14] [Server thread/ERROR]: Block at 12, 16, -29 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@64bf1010. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
 [19:05:14] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@7c9a4332. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:08:47] [Server thread/ERROR]: Block at 14, 16, -31 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@5b00f75. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:09:07] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[19:09:07] [Server thread/INFO]: offgamer233 left the game
+[19:09:31] [Server thread/INFO]: elrubius fell from a high place
