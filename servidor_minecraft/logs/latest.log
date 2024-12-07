@@ -1230,3 +1230,827 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [19:43:54] [Server thread/ERROR]: Block at 7, 104, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@20aec7c2. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
 [19:44:02] [Server thread/INFO]: offgamer233 lost connection: Disconnected
 [19:44:02] [Server thread/INFO]: offgamer233 left the game
+[19:46:58] [User Authenticator #7/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[19:46:58] [Server thread/INFO]: [ELITE] offgamer233 joined the game
+[19:46:58] [Server thread/INFO]: offgamer233[/127.242.21.161:54023] logged in with entity id 5850 at ([world]14.382585250877687, 100.0, 12.095813345525404)
+[19:47:06] [Server thread/INFO]: offgamer233 issued server command: /reload
+[19:47:06] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[19:47:08] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[19:47:08] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[19:47:08] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[19:47:08] [Server thread/INFO]: Debug logging is disabled
+[19:47:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:47:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:47:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:47:08] [Server thread/INFO]: Mob Spawn Range: 8
+[19:47:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:47:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:47:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:47:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:47:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[19:47:08] [Server thread/INFO]: Max TNT Explosions: 100
+[19:47:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:47:08] [Server thread/INFO]: View Distance: 10
+[19:47:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:47:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:47:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:47:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:47:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:47:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:47:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:47:08] [Server thread/INFO]: Mob Spawn Range: 8
+[19:47:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:47:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:47:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:47:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:47:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[19:47:08] [Server thread/INFO]: Max TNT Explosions: 100
+[19:47:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:47:08] [Server thread/INFO]: View Distance: 10
+[19:47:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:47:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:47:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:47:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:47:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:47:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:47:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:47:08] [Server thread/INFO]: Mob Spawn Range: 8
+[19:47:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:47:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:47:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:47:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:47:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:47:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[19:47:08] [Server thread/INFO]: Max TNT Explosions: 100
+[19:47:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:47:08] [Server thread/INFO]: View Distance: 10
+[19:47:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:47:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:47:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:47:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:47:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:47:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:47:08] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[19:47:08] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[19:47:08] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[19:47:08] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[19:47:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.14+6360-094b734
+[19:47:08] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[19:47:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[19:47:09] [Server thread/INFO]: Loaded 6 recipes
+[19:47:09] [Server thread/INFO]: Loaded 67 custom command functions
+[19:47:09] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[19:47:09] [Server thread/INFO]: Loaded 6 recipes
+[19:47:09] [Server thread/INFO]: Loaded 67 custom command functions
+[19:47:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
+[19:47:09] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4f908590]
+[19:47:09] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[19:47:09] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[19:47:09] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[19:47:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:47:10] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:47:10] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:47:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:47:10] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[19:47:10] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[19:47:10] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[19:47:10] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+[19:47:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:47:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
+[19:47:10] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
+[19:47:10] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:47:10] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:47:10] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[19:47:10] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[19:47:10] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[19:47:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[19:47:10] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[19:47:11] [Server thread/ERROR]: An unexpected error occurred while starting the plugin. Please check the console for more details.
+java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.ProtocolVersion com.viaversion.viaversion.api.protocol.version.ServerProtocolVersion.lowestSupportedProtocolVersion()'
+	at net.skinsrestorer.bukkit.refresher.ViaWorkaround.shouldApplyWorkaround(ViaWorkaround.java:35) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.selectSpigotRefresher(SRBukkitInit.java:126) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.detectRefresh(SRBukkitInit.java:110) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.initSkinApplier(SRBukkitInit.java:78) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.startup(SRPlugin.java:333) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:62) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:472) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:386) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.reload(CraftServer.java:892) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.reload(Bukkit.java:666) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:761) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1869) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1677) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1106) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1099) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1060) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:975) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:47:11] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
+[19:47:11] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 4: Add name index
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:47:11] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:47:11] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[19:47:11] [Server thread/INFO]: offgamer233: Reload complete.
+[19:47:11] [Server thread/INFO]: Timings Reset
+[19:47:11] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.15.2 (578)
+[19:47:11] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 11.0.25). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[19:47:11] [Craft Scheduler Thread - 18/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:47:11] [Craft Scheduler Thread - 18/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |    [31;1mError Mode[32;1m    |[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[19:47:11] [Craft Scheduler Thread - 19/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[19:47:11] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[19:47:17] [pool-47-thread-1/ERROR]: Could not pass event AuthModeChangedEvent to LoginSecurity v3.3.0
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.getPlayer(CraftServer.java:508) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:442) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer(PlayerSession.java:131) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.modules.general.PlayerListener.onAuthChange(PlayerListener.java:195) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor65.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.15.2.jar:git-Paper-393]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:179) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.lambda$performActionAsync$2(PlayerSession.java:143) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:47:53] [pool-47-thread-1/ERROR]: Could not pass event AuthModeChangedEvent to LoginSecurity v3.3.0
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.getPlayer(CraftServer.java:508) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:442) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer(PlayerSession.java:131) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.modules.general.PlayerListener.onAuthChange(PlayerListener.java:195) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor65.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.15.2.jar:git-Paper-393]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:179) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.lambda$performActionAsync$2(PlayerSession.java:143) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:48:10] [Craft Scheduler Thread - 22/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:48:30] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
+[19:48:30] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
+[19:48:30] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@2277fa12. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:48:30] [Server thread/ERROR]: Block at 12, 16, -29 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@3bf6e36. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:48:34] [Server thread/ERROR]: Block at 12, 16, -29 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@c2644d6. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:48:34] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@2c1c3dca. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:48:37] [Server thread/ERROR]: Block at 14, 16, -31 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@31a6e531. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:49:10] [Craft Scheduler Thread - 23/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:50:10] [Craft Scheduler Thread - 24/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:50:14] [Server thread/INFO]: offgamer233 issued server command: /reload
+[19:50:14] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[19:50:16] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[19:50:16] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[19:50:16] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[19:50:16] [Server thread/INFO]: Debug logging is disabled
+[19:50:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:50:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:50:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:50:16] [Server thread/INFO]: Mob Spawn Range: 8
+[19:50:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:50:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:50:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:50:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:50:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[19:50:16] [Server thread/INFO]: Max TNT Explosions: 100
+[19:50:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:50:16] [Server thread/INFO]: View Distance: 10
+[19:50:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:50:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:50:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:50:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:50:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:50:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:50:16] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:50:16] [Server thread/INFO]: Mob Spawn Range: 8
+[19:50:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:50:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:50:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:50:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:50:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[19:50:16] [Server thread/INFO]: Max TNT Explosions: 100
+[19:50:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:50:16] [Server thread/INFO]: View Distance: 10
+[19:50:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:50:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:50:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:50:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:50:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:50:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:50:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:50:16] [Server thread/INFO]: Mob Spawn Range: 8
+[19:50:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:50:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:50:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[19:50:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:50:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:50:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[19:50:16] [Server thread/INFO]: Max TNT Explosions: 100
+[19:50:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:50:16] [Server thread/INFO]: View Distance: 10
+[19:50:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:50:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:50:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:50:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:50:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:50:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:50:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[19:50:16] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[19:50:16] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[19:50:16] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[19:50:16] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[19:50:16] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[19:50:16] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[19:50:16] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[19:50:16] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.14+6360-094b734
+[19:50:16] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[19:50:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[19:50:16] [Server thread/INFO]: Loaded 6 recipes
+[19:50:16] [Server thread/INFO]: Loaded 67 custom command functions
+[19:50:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[19:50:16] [Server thread/INFO]: Loaded 6 recipes
+[19:50:16] [Server thread/INFO]: Loaded 67 custom command functions
+[19:50:17] [Server thread/INFO]: [SCore] Loading SCore v5.24.12.7
+[19:50:17] [Server thread/INFO]: [ExecutableItems] Loading ExecutableItems v7.24.12.7
+[19:50:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
+[19:50:17] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2ad7f61]
+[19:50:17] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[19:50:17] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[19:50:17] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[19:50:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:50:17] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:50:17] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:50:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:50:18] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[19:50:18] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[19:50:18] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[19:50:18] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+[19:50:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:50:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
+[19:50:18] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
+[19:50:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:50:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:50:18] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[19:50:18] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[19:50:18] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[19:50:18] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[19:50:18] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[19:50:18] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[19:50:18] [Server thread/ERROR]: An unexpected error occurred while starting the plugin. Please check the console for more details.
+java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.ProtocolVersion com.viaversion.viaversion.api.protocol.version.ServerProtocolVersion.lowestSupportedProtocolVersion()'
+	at net.skinsrestorer.bukkit.refresher.ViaWorkaround.shouldApplyWorkaround(ViaWorkaround.java:35) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.selectSpigotRefresher(SRBukkitInit.java:126) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.detectRefresh(SRBukkitInit.java:110) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.initSkinApplier(SRBukkitInit.java:78) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.startup(SRPlugin.java:333) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:62) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:472) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:386) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.reload(CraftServer.java:892) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.reload(Bukkit.java:666) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:761) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1869) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1677) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1106) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1099) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1060) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:975) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:50:18] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
+[19:50:18] [Server thread/INFO]: [SCore] Enabling SCore v5.24.12.7
+[19:50:18] [Server thread/INFO]: ================ SCore ================
+[19:50:18] [Server thread/INFO]: SCore is running on Paper or fork
+[19:50:18] [Server thread/INFO]: SCore Version of the server git-Paper-393 (MC: 1.15.2) !
+[19:50:18] [Server thread/INFO]: SCore ExecutableItems hooked !  (7.24.12.7) Load After
+[19:50:18] [Server thread/INFO]: SCore WorldEdit hooked !  (7.2.14+6360-094b734)  Load Before
+[19:50:18] [Server thread/INFO]: SCore Locale setup: EN
+[19:50:18] [Server thread/INFO]: SCore Language of the editor setup on EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.back.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.creation.id.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.edit.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.exit.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.folder.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.folder.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.delete.message in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.delete.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.delete.normal.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.delete.shift.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.delete.shift.left.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.give.shift.right.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.give.receivedMessage in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.invalid.file.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.invalid.file.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.invalid.configuration.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.invalid.configuration.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.invalid.configuration.freeLimit in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.new.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.page.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.page.next.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.page.previous.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.path.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.path.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.premade.premium.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.premade.packs.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.premium.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.premium.requirePremiumToAddMore in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.reset.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.reset.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.save.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.save.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of editor.title.color in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.activators.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.activators.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.activators.editorTitle in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.activator.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.activator.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.aroundBlock.name in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.aroundBlock.description in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.aroundBlock.editorTitle in your for the plugin > SCore in language: EN
+[19:50:18] [Server thread/INFO]: SCore Update of features.aroundBlock.features.southValue.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.southValue.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.northValue.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.northValue.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.eastValue.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.eastValue.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.westValue.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.westValue.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.aboveValue.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.aboveValue.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.underValue.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.underValue.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.errorMessage.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.errorMessage.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.blockMustBeExecutableBlock.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.blockMustBeExecutableBlock.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.blockTypeMustBe.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.blockTypeMustBe.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.blockTypeMustNotBe.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlock.features.blockTypeMustNotBe.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlocks.name in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlocks.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlocks.editorTitle in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.aroundBlocks.parentDescription.blockAroundAdded in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.lore.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.material.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.name.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.glow.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.usage.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.usageLimit.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.usePerDay.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.giveFirstJoin.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.durability.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.customModelData.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.enchantments.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.unbreakable.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.attributes.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.keepItemOnDeath.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.disableStack.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.displayConditions.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.drops.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.restrictions.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.hiders.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.armorTrim.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.nbtTags.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.cancelEvents.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.canBeUsedOnlyByTheOwner.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.storeItemInfo.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of ei.features.disabledWorlds.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of features.variables.description in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Language for in-game messages setup on EN
+[19:50:19] [Server thread/INFO]: SCore Update of actionbarMessage in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of actionbarEnd in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of setActionbarOn in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of setActionbarOff in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of haveActionbarOn in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of haveActionbarOff in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of errorMoneyMsg in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of newBalanceMsg in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of newBalancePositiveMsg in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of noPlayerHit in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of noEntityHit in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of damageCommandKill in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of variableValueSet in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore Update of variableDefaultValueSet in your for the plugin > SCore in language: EN
+[19:50:19] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[19:50:19] [Server thread/INFO]: SCore Connection to the db...
+[19:50:19] [Server thread/INFO]: SCore will connect to the database hosted: In Local
+[19:50:19] [Server thread/INFO]: SCore Creating table SecurityOP if not exists...
+[19:50:19] [Server thread/INFO]: SCore Creating table Commands if not exists...
+[19:50:19] [Server thread/INFO]: SCore Creating table Cooldowns if not exists...
+[19:50:19] [Server thread/INFO]: SCore Creating table Commands Player if not exists...
+[19:50:19] [Server thread/INFO]: SCore Creating table Commands Entity if not exists...
+[19:50:19] [Server thread/INFO]: SCore Creating table Commands Block if not exists...
+[19:50:19] [Server thread/INFO]: SCore Creating table UsePerDay if not exists...
+[19:50:19] [Server thread/INFO]: SCore CANT LOAD YOUR PROJECTILES, FOLDER 'projectiles' not found !
+[19:50:19] [Server thread/INFO]: SCore It will generate 56 default projectiles from jar : /com/ssomar/score/configs/projectiles/
+[19:50:19] [Server thread/INFO]: SCore /Default/arrow1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/egg1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/enderpearl1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/fireball1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/lingering1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/shulkerbullet1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/snowball1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/trident1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/tridentCustom1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/type.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /Default/witherskull1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/BLACK_HOLE_PROJECTILE.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/DEFAULT_INVISIBLE_ARROW.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/DEFAULT_INVISIBLE_ARROW_NO_GRAVITY.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/DEFAULT_INVISIBLE_ARROW_NO_GRAVITY_SPEED.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FAIRYTAIL_GRAY_FULLBUSTER_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FAIRYTAIL_NATSU_DRAGNEEL_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_ARCHER_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_ARCHER_2.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_CASTER_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_CASTER_2.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_CASTER_3.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_GILGAMESH_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_GILGAMESH_2.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_GILGAMESH_3.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FATE_RIDER_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/FIRE_WAND_PROJECTILE.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/HUNTERXHUNTER_GON_FREECSS_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/HUNTERXHUNTER_KURAPIKA_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/JERRY-CHIME_GUN_PROJECTILE_FILE.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MADOKA_HOMURA_AKEMI_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MADOKA_MADOKA_KANAME_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MADOKA_MAMI_TOMOE_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MHA_DENKI_KAMINARI_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MHA_IZUKU_MIDORIYA_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MHA_MINA_ASHIDO_ACID_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MHA_MINA_ASHIDO_ACID_2.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/MHA_SHOTO_TODOROKI_2.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_001_1_FIRE_FIST.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_001_2_FIRE_GUN.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_001_3_FIREFLY.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_002_1_FREEZE_BEAM.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_002_2_FREEZE_BOMB.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_003_1_TELEPORT.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_003_2_LIGHTNING_STRIKE.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_004_1_BLACK_HOLE.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_005_1_FLIGHT.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_005_2_FLAME_WALL.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/ONEPIECE_005_3_FIREBALL.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/OPM_GENOS_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/OPM_SPEED_O_SONIC_1.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/PACK_2_06.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/PACK_2_12.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/proj_pumpkin.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/proj_rainbow_projectile.yml was created !
+[19:50:19] [Server thread/INFO]: SCore /projectiles_not_editable/proj_tornado_blade.yml was created !
+[19:50:19] [Server thread/INFO]: SCore DEFAULT PROJECTILES CREATED !
+[19:50:19] [Server thread/ERROR]: &cERROR, Couldn't load the Material value of material from config, value: CHAIN &7&oSProjectile: HUNTERXHUNTER_KURAPIKA_1 &6>> Materials available: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[19:50:19] [Server thread/ERROR]: &cERROR, Couldn't load the Particle value of particlesType from config, value: SOUL_FIRE_FLAME &7&oSProjectile: PACK_2_06.(particles) &6>> Particles available: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+[19:50:19] [Server thread/ERROR]: &cERROR, Couldn't load the Material value of material from config, value: CHAIN &7&oSProjectile: HUNTERXHUNTER_KURAPIKA_1 &6>> Materials available: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[19:50:19] [Server thread/ERROR]: &cERROR, Couldn't load the Particle value of particlesType from config, value: SOUL_FIRE_FLAME &7&oSProjectile: PACK_2_06.(particles) &6>> Particles available: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+[19:50:19] [Server thread/ERROR]: &cERROR, Couldn't load the Material value of material from config, value: CHAIN &7&oSProjectile: HUNTERXHUNTER_KURAPIKA_1 &6>> Materials available: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+[19:50:19] [Server thread/ERROR]: &cERROR, Couldn't load the Particle value of particlesType from config, value: SOUL_FIRE_FLAME &7&oSProjectile: PACK_2_06.(particles) &6>> Particles available: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+[19:50:19] [Server thread/INFO]: SCore CANT LOAD YOUR HARDNESSES, FOLDER 'hardnesses' not found !
+[19:50:19] [Server thread/INFO]: SCore It will generate 1 default hardnesses from jar : /com/ssomar/score/configs/hardnesses/
+[19:50:19] [Server thread/INFO]: SCore /Default/example.yml was created !
+[19:50:19] [Server thread/INFO]: SCore DEFAULT HARDNESSES CREATED !
+[19:50:19] [Server thread/INFO]: SCore CANT LOAD YOUR VARIABLES, FOLDER 'variables' not found !
+[19:50:19] [Server thread/INFO]: SCore It will generate 1 default variables from jar : /com/ssomar/score/configs/variables/
+[19:50:19] [Server thread/INFO]: SCore /Default/example.yml was created !
+[19:50:19] [Server thread/INFO]: SCore DEFAULT VARIABLES CREATED !
+[19:50:19] [Server thread/INFO]: SCore SCore loaded 1 variables from local files !
+[19:50:19] [Server thread/INFO]: SCore SCore loaded 0 delayed commands saved
+[19:50:19] [Server thread/INFO]: ================ SCore ================
+[19:50:19] [Server thread/INFO]: [ExecutableItems] Enabling ExecutableItems v7.24.12.7
+[19:50:19] [Server thread/INFO]: ================ ExecutableItems ================
+[19:50:21] [Server thread/INFO]: ExecutableItems CANT LOAD YOUR ITEMS, FOLDER 'items' not found !
+[19:50:21] [Server thread/INFO]: ExecutableItems It will generate 171 default items from jar : /com/ssomar/executableitems/configs/items/
+[19:50:21] [Server thread/INFO]: ExecutableItems /Crates/Free_Custom_Crate_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Crates/Free_Lotery_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Fun/Free_Spit_v1_12.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Misc/Free_Epic_Anvil_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Misc/Free_Fly_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Misc/Free_Money_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Potions/Free_Epic_Potion_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Potions/Free_Heal_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Projectiles/Free_Epic_Pearl_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Projectiles/Free_Epic_Snowball_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Projectiles/Free_Homing_Arrow_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Pvp/Free_Drop_Ball_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Pvp/Free_Stun_Ball_v1_8.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Tools/Free_Bucket5.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Tools/Free_Drain_Sponge.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Tools/Free_Wifi_Crafting_Table.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems /Tools/Free_Wifi_Enderchest.yml was created !
+[19:50:21] [Server thread/INFO]: ExecutableItems DEFAULT ITEMS CREATED !
+[19:50:22] [Server thread/INFO]: ExecutableItems Amount of Executable Items configurations loaded: 17
+[19:50:22] [Server thread/INFO]: SCore Update of receiveItem in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of fullInventory in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of timeLeft in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requirePermission in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of giveMessage in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of use in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of noHit in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of noEntityHit in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of cancelCraft in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of pickupLimitMessage in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of disableWorld in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredEIFirstPart in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredEIQuantity in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredEISeparator in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredItemsFirstPart in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredItemsQuantity in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredItemsSeparator in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of requiredLevel in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of waitProjectile in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of invalidOwner in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of errorUPDItem in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of errorUPDActivator in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of customCommandDamageKillMessage in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of noOwner in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: SCore Update of refreshValid in your for the plugin > ExecutableItems in language: EN
+[19:50:22] [Server thread/INFO]: ExecutableItems Items with display conditions :  
+[19:50:22] [Server thread/INFO]: ================ ExecutableItems ================
+[19:50:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[19:50:22] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[19:50:22] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:50:22] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:50:22] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:50:22] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:50:22] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:50:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[19:50:22] [Server thread/INFO]: offgamer233: Reload complete.
+[19:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5784ms or 115 ticks behind
+[19:50:22] [Server thread/INFO]: Timings Reset
+[19:50:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.15.2 (578)
+[19:50:22] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 11.0.25). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[19:50:22] [Craft Scheduler Thread - 26/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |    [31;1mError Mode[32;1m    |[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[19:50:22] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[19:50:22] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[19:50:24] [Craft Scheduler Thread - 30/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:50:27] [Craft Scheduler Thread - 30/WARN]: [LoginSecurity] Plugin LoginSecurity v3.3.0 generated an exception while executing task 30518
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.getPlayer(CraftServer.java:508) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:442) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer(PlayerSession.java:131) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.AuthAction.rehabPlayer(AuthAction.java:49) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.action.LoginAction.run(LoginAction.java:27) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:169) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.commands.CommandLogin.lambda$execute$1(CommandLogin.java:67) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:50:40] [Craft Scheduler Thread - 30/WARN]: [LoginSecurity] Plugin LoginSecurity v3.3.0 generated an exception while executing task 30520
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.getPlayer(CraftServer.java:508) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:442) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer(PlayerSession.java:131) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.AuthAction.rehabPlayer(AuthAction.java:49) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.action.LoginAction.run(LoginAction.java:27) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:169) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.commands.CommandLogin.lambda$execute$1(CommandLogin.java:67) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:50:43] [Craft Scheduler Thread - 30/WARN]: [LoginSecurity] Plugin LoginSecurity v3.3.0 generated an exception while executing task 30521
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.getPlayer(CraftServer.java:508) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:442) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer(PlayerSession.java:131) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.AuthAction.rehabPlayer(AuthAction.java:49) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.action.LoginAction.run(LoginAction.java:27) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:169) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.commands.CommandLogin.lambda$execute$1(CommandLogin.java:67) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:50:45] [Craft Scheduler Thread - 30/WARN]: [LoginSecurity] Plugin LoginSecurity v3.3.0 generated an exception while executing task 30522
+java.lang.IllegalArgumentException: Name cannot be null
+	at org.apache.commons.lang.Validate.notNull(Validate.java:192) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.getPlayer(CraftServer.java:508) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:442) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.getPlayer(PlayerSession.java:131) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.AuthAction.rehabPlayer(AuthAction.java:49) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.action.LoginAction.run(LoginAction.java:27) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.session.PlayerSession.performAction(PlayerSession.java:169) ~[?:?]
+	at com.lenis0012.bukkit.loginsecurity.commands.CommandLogin.lambda$execute$1(CommandLogin.java:67) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[19:50:49] [Server thread/INFO]: offgamer233 lost connection: [LoginSecurity] Exceeded max login tries: 5
+[19:50:49] [Server thread/INFO]: offgamer233 left the game
+[19:50:54] [User Authenticator #8/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[19:50:54] [Server thread/INFO]: [ELITE] offgamer233 joined the game
+[19:50:54] [Server thread/INFO]: offgamer233[/127.242.21.161:35575] logged in with entity id 5905 at ([world]8.517442529176046, 13.518614881039383, -0.10022586515750581)
+[19:51:06] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[19:51:09] [Async Chat Thread - #4/INFO]: <offgamer233> a
+[19:51:10] [Async Chat Thread - #4/INFO]: <offgamer233> a
+[19:51:11] [Async Chat Thread - #4/INFO]: <offgamer233> a
+[19:51:14] [Server thread/INFO]: offgamer233 issued server command: /pl
+[19:51:20] [Server thread/INFO]: offgamer233 issued server command: /ei
+[19:51:24] [Craft Scheduler Thread - 32/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:52:23] [Server thread/INFO]: elrubius lost connection: Login timed out!
+[19:52:23] [Server thread/INFO]: elrubius left the game
+[19:52:24] [Craft Scheduler Thread - 39/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:52:44] [Server thread/INFO]: offgamer233 issued server command: /ei drop
+[19:52:44] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ei' in plugin ExecutableItems v7.24.12.7
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:761) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1869) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1677) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1106) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1099) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(IAsyncTaskHandler.java:95) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1233) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.ssomar.score.commands.score.DropCommand.run(DropCommand.java:28) ~[?:?]
+	at com.ssomar.executableitems.commands.CommandsClass.runCommand(CommandsClass.java:525) ~[?:?]
+	at com.ssomar.score.commands.score.CommandsClassAbstract.onCommand(CommandsClassAbstract.java:79) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[patched_1.15.2.jar:git-Paper-393]
+	... 17 more
+[19:52:49] [Server thread/INFO]: offgamer233 issued server command: /ei create
+[19:52:52] [Server thread/INFO]: offgamer233 issued server command: /ei create tes
+[19:53:24] [Craft Scheduler Thread - 45/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:54:24] [Craft Scheduler Thread - 51/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:55:24] [Craft Scheduler Thread - 57/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m

@@ -1,0 +1,26 @@
+# 
+# only work with 1.16.4 or +
+type: TRIDENT
+customNameVisible: true
+customName: Trident2
+pickupStatus: DISALLOWED
+glowing: false
+critical: false
+bounce: true
+gravity: true
+damage: -1
+velocity: 1
+knockbackStrength: -1
+pierceLevel: -1
+despawnDelay: 3
+enchantments:
+  enchantment1:
+    enchantment: unbreaking
+    level: 1
+  enchantment3:
+    enchantment: mending
+    level: 1
+particlesAmount: 10
+particlesOffSet: 0.5
+particlesSpeed: 0.3
+particlesDelay: 1
