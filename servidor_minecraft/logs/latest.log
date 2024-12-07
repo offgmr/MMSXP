@@ -1068,3 +1068,16 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [18:55:23] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
 [18:55:38] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
 [18:55:41] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 4
+[18:56:03] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:56:53] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:56:59] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 3
+[18:57:07] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 18
+[18:57:51] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[18:57:56] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:58:08] [Server thread/WARN]: elrubius moved too quickly! -3.5468135093764444,-14.333890739061784,3.3187285978579926
+[18:58:15] [Server thread/INFO]: elrubius fell out of the world
+[18:59:13] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[19:05:10] [Server thread/ERROR]: Block at 12, 16, -29 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@7a3d4f9a. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:05:10] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@1eeb527e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:05:14] [Server thread/ERROR]: Block at 12, 16, -29 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@64bf1010. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:05:14] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@7c9a4332. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
