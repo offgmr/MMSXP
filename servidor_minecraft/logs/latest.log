@@ -1096,3 +1096,25 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [19:25:05] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
 [19:25:14] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model8
 [19:25:24] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[19:26:46] [Server thread/ERROR]: Block at 14, 16, -31 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@465a8c0d. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:26:47] [Server thread/ERROR]: Block at 14, 16, -31 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@387df6de. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:29:23] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 18
+[19:29:49] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[19:29:55] [Server thread/INFO]: elrubius fell from a high place
+[19:31:00] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[19:31:05] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 3
+[19:32:35] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
+[19:32:43] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[19:33:36] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[19:33:37] [Server thread/ERROR]: Block at 7, 5, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@6cd57074. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:33:37] [Server thread/ERROR]: Block at 7, 6, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@55374edf. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:33:37] [Server thread/ERROR]: Block at 7, 7, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@3ade18df. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:33:37] [Server thread/ERROR]: Block at 7, 8, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@15166958. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:33:37] [Server thread/ERROR]: Block at 7, 9, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@5287fd5e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:33:44] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[19:33:52] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model6
+[19:34:00] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[19:34:00] [Server thread/ERROR]: Block at 7, 5, 10 is Block{minecraft:light_gray_concrete} but has net.minecraft.server.v1_15_R1.TileEntityChest@3da90067. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:34:11] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model7
+[19:34:20] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[19:34:43] [Server thread/INFO]: offgamer233 issued server command: /time set day
