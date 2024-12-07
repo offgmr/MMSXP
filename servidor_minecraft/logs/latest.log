@@ -1045,3 +1045,10 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [18:33:19] [Server thread/INFO]: offgamer233 issued server command: /team leave offgamer233
 [18:35:35] [Server thread/INFO]: offgamer233 issued server command: /team join ADMIN
 [18:35:48] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 3
+[18:36:40] [Server thread/INFO]: offgamer233 issued server command: //wand
+[18:37:21] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:37:40] [Server thread/INFO]: offgamer233 issued server command: //set air
+[18:42:26] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:43:30] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:44:14] [Server thread/INFO]: [ELITE] offgamer233 fell out of the world
+[18:44:20] [Server thread/INFO]: offgamer233 issued server command: //wand
