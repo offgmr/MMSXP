@@ -1085,3 +1085,14 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [19:09:07] [Server thread/INFO]: offgamer233 lost connection: Disconnected
 [19:09:07] [Server thread/INFO]: offgamer233 left the game
 [19:09:31] [Server thread/INFO]: elrubius fell from a high place
+[19:22:01] [User Authenticator #6/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[19:22:01] [Server thread/INFO]: [ELITE] offgamer233 joined the game
+[19:22:01] [Server thread/INFO]: offgamer233[/127.242.21.161:37815] logged in with entity id 553 at ([world]9.573474474475093, 12.0, -36.30000001192093)
+[19:23:38] [Server thread/ERROR]: Block at 12, 16, -29 is Block{minecraft:barrier} but has net.minecraft.server.v1_15_R1.TileEntityChest@4671e047. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:23:38] [Server thread/ERROR]: Block at 14, 16, -32 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@548ddd83. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:23:41] [Server thread/ERROR]: Block at 14, 16, -31 is Block{minecraft:redstone_wire} but has net.minecraft.server.v1_15_R1.TileEntityChest@46488f63. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:24:11] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model6
+[19:24:20] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[19:25:05] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[19:25:14] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model8
+[19:25:24] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
