@@ -554,3 +554,315 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [22:49:51] [Server thread/INFO]: offgamer233 issued server command: /deop
 [22:50:03] [Server thread/INFO]: offgamer233 issued server command: /gamemode survival
 [22:50:15] [Craft Scheduler Thread - 115/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:50:19] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[22:50:29] [Server thread/INFO]: offgamer233 issued server command: /reload
+[22:50:29] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[22:50:31] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[22:50:31] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[22:50:31] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[22:50:31] [Server thread/INFO]: Debug logging is disabled
+[22:50:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:50:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:50:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:50:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:50:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:50:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:50:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[22:50:31] [Server thread/INFO]: Max TNT Explosions: 100
+[22:50:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:50:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:50:31] [Server thread/INFO]: Mob Spawn Range: 8
+[22:50:31] [Server thread/INFO]: View Distance: 10
+[22:50:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:50:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:50:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:50:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:50:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:50:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:50:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:50:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:50:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:50:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:50:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[22:50:31] [Server thread/INFO]: Max TNT Explosions: 100
+[22:50:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:50:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:50:31] [Server thread/INFO]: Mob Spawn Range: 8
+[22:50:31] [Server thread/INFO]: View Distance: 10
+[22:50:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:50:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:50:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:50:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:50:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:50:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:50:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:50:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:50:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:50:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:50:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[22:50:31] [Server thread/INFO]: Max TNT Explosions: 100
+[22:50:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:50:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:50:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:50:31] [Server thread/INFO]: Mob Spawn Range: 8
+[22:50:31] [Server thread/INFO]: View Distance: 10
+[22:50:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:50:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:50:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:50:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:50:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:50:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:50:31] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[22:50:31] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[22:50:31] [Server thread/INFO]: [ntdLuckyBlock] Disabling ntdLuckyBlock v2.8.27
+[22:50:31] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[22:50:31] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[22:50:31] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[22:50:31] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:50:31] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:50:31] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[22:50:31] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[22:50:31] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[22:50:31] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[22:50:31] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[22:50:31] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[22:50:31] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.14+6360-094b734
+[22:50:31] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:50:31] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[22:50:31] [Server thread/INFO]: Loaded 6 recipes
+[22:50:31] [Server thread/INFO]: Loaded 67 custom command functions
+[22:50:31] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[22:50:31] [Server thread/INFO]: Loaded 6 recipes
+[22:50:31] [Server thread/INFO]: Loaded 67 custom command functions
+[22:50:31] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
+[22:50:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@60ea876e]
+[22:50:32] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[22:50:32] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[22:50:32] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[22:50:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:50:32] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:50:32] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:50:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:50:32] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[22:50:32] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[22:50:32] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[22:50:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[22:50:32] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[22:50:32] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+[22:50:32] [Server thread/INFO]: [ntdLuckyBlock] Loading ntdLuckyBlock v2.8.27
+[22:50:32] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.58.1
+[22:50:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:50:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
+[22:50:32] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
+[22:50:32] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:50:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:50:32] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[22:50:32] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[22:50:33] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[22:50:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[22:50:33] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[22:50:33] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[22:50:33] [Server thread/ERROR]: An unexpected error occurred while starting the plugin. Please check the console for more details.
+java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.ProtocolVersion com.viaversion.viaversion.api.protocol.version.ServerProtocolVersion.lowestSupportedProtocolVersion()'
+	at net.skinsrestorer.bukkit.refresher.ViaWorkaround.shouldApplyWorkaround(ViaWorkaround.java:35) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.selectSpigotRefresher(SRBukkitInit.java:126) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.detectRefresh(SRBukkitInit.java:110) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.initSkinApplier(SRBukkitInit.java:78) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.startup(SRPlugin.java:333) ~[?:?]
+	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:62) ~[?:?]
+	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:472) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:386) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.reload(CraftServer.java:892) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.Bukkit.reload(Bukkit.java:666) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:761) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1869) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1677) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:47) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1106) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1099) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1060) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:975) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[22:50:33] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
+[22:50:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[22:50:33] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[22:50:33] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:50:33] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:50:33] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:50:33] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:50:33] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:50:33] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[22:50:33] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:50:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:50:33] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[22:50:33] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
+[22:50:33] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:50:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:50:33] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Enabling ntdLuckyBlock v2.8.27
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Starting LuckyBlock (ntdLuckyBlock) v2.8.27, build133(28/10/2024), free
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]   ╭╮╱╱╭╮╱╭┳━━━┳╮╭━┳╮╱╱╭┳━━╮╭╮╱╱╭━━━┳━━━┳╮╭━╮
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃╭━╮┃┃┃╭┫╰╮╭╯┃╭╮┃┃┃╱╱┃╭━╮┃╭━╮┃┃┃╭╯
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯╰╮╰╯╭┫╰╯╰┫┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃╱╰╮╭╯┃╭━╮┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]   ┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮╱┃┃╱┃╰━╯┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]   ╰━━━┻━━━┻━━━┻╯╰━╯╱╰╯╱╰━━━┻━━━┻━━━┻━━━┻╯╰━╯ NTD
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]           Made with love by DenBeKKer
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] 
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]  > Discord - https://discord.gg/vbYW3sperj
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock]  > Vkontakte - https://vk.com/danirodplay (Rus)
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded main material version
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loading NMS for your platform (git-Paper-393 (MC: 1.15.2), v1_15_R1)...
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loading language file "en" by DenBeKKer
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] WorldEdit connected
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard connected
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Vault not found
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] TokenManager not found
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] SlimeFun not found
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Found 2/5 compatible plugins
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 34 ms)...
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] If you love my plugin, support me with 5 stars review(https://www.spigotmc.org/resources/92026/) or consider to purchase premium plugin version (https://www.spigotmc.org/resources/94872/)
+[22:50:33] [Server thread/INFO]: [ntdLuckyBlock] Enabled (took 75 ms)... 
+[22:50:33] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[22:50:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
+[22:50:33] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[22:50:33] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[22:50:34] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:50:34] [Server thread/INFO]: offgamer233: Reload complete.
+[22:50:34] [Server thread/INFO]: Timings Reset
+[22:50:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.15.2 (578)
+[22:50:34] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 11.0.25). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[22:50:34] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.sk89q.worldguard.WorldGuard from WorldGuard v7.0.3;5407315 which is not a depend, softdepend or loadbefore of this plugin.
+[22:50:34] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.sk89q.worldedit.world.World from WorldEdit v7.2.14+6360-094b734 which is not a depend, softdepend or loadbefore of this plugin.
+[22:50:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: worldguard [1.4.2]
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |    [31;1mError Mode[32;1m    |[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[22:50:34] [Craft Scheduler Thread - 115/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[22:50:34] [Craft Scheduler Thread - 114/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[22:50:34] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[22:50:34] [Craft Scheduler Thread - 114/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:50:34] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[22:50:50] [Server thread/INFO]: offgamer233 lost connection: Disconnected
+[22:50:50] [Server thread/INFO]: offgamer233 left the game
+[22:50:55] [User Authenticator #2/INFO]: UUID of player offgamer233 is eb96e115-2377-3371-b8a2-b0f23e8ad1a6
+[22:50:55] [Server thread/INFO]: [ELITE] offgamer233 joined the game
+[22:50:55] [Server thread/INFO]: offgamer233[/127.242.21.161:55229] logged in with entity id 42 at ([world]5.391876188135481, 10.0, 11.16434179976124)
+[22:51:09] [Server thread/INFO]: offgamer233 issued server command: /luckyblock reload
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] Loading language file "en" by DenBeKKer
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 27 ms)...
+[22:51:09] [Server thread/INFO]: [ntdLuckyBlock] Reloaded (took 31 ms)... 
+[22:51:17] [Server thread/INFO]: offgamer233 issued server command: /luckyblock reload
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] Loading language file "en" by DenBeKKer
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 17 ms)...
+[22:51:17] [Server thread/INFO]: [ntdLuckyBlock] Reloaded (took 21 ms)... 
+[22:51:19] [Async Chat Thread - #2/INFO]: <offgamer233> asda
+[22:51:33] [Craft Scheduler Thread - 119/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:51:34] [Server thread/INFO]: offgamer233 issued server command: /luckyblock destroy
+[22:51:57] [Server thread/INFO]: offgamer233 issued server command: /luckyblock destroy 16 12 -38
+[22:52:18] [Server thread/INFO]: offgamer233 issued server command: /luckyblock destroy 4 10 8
+[22:52:33] [Craft Scheduler Thread - 125/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:53:33] [Craft Scheduler Thread - 131/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:54:33] [Craft Scheduler Thread - 137/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:55:33] [Craft Scheduler Thread - 143/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:56:33] [Craft Scheduler Thread - 149/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:57:33] [Craft Scheduler Thread - 155/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:58:33] [Craft Scheduler Thread - 161/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[22:59:33] [Craft Scheduler Thread - 167/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
