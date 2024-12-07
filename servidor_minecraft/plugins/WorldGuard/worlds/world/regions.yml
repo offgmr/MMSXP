@@ -10,11 +10,17 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    hola:
-        min: {x: -8, y: 0, z: -1}
-        max: {x: 20, y: 116, z: 30}
+    uno:
+        min: {x: -7, y: 1, z: -4}
+        max: {x: 21, y: 110, z: 30}
+        members: {}
+        flags: {sleep: allow, use: allow, chest-access: allow, pvp: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    __global__:
         members: {}
         flags: {}
         owners: {}
-        type: cuboid
+        type: global
         priority: 0

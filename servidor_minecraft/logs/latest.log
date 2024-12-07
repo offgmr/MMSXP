@@ -3195,3 +3195,85 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [20:35:49] [Server thread/INFO]: offgamer233 issued server command: /setblock ~ ~ ~ minecraft:dirt
 [20:36:05] [Server thread/INFO]: offgamer233 issued server command: //set black_concrete
 [20:36:14] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[20:36:21] [Server thread/INFO]: offgamer233 issued server command: //set black_concrete
+[20:36:26] [Server thread/INFO]: offgamer233 issued server command: //set black_concrete
+[20:36:29] [Craft Scheduler Thread - 184/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:36:31] [Server thread/INFO]: offgamer233 issued server command: //set black_concrete
+[20:36:35] [Server thread/INFO]: offgamer233 issued server command: //set black_concrete
+[20:36:45] [Server thread/INFO]: offgamer233 issued server command: /setworldspawn
+[20:36:55] [Server thread/INFO]: offgamer233 issued server command: /region delete hola
+[20:36:59] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:37:06] [Server thread/INFO]: offgamer233 issued server command: //pos1
+[20:37:15] [Server thread/INFO]: offgamer233 issued server command: //pos2
+[20:37:26] [Server thread/INFO]: offgamer233 issued server command: /region define uno
+[20:37:29] [Craft Scheduler Thread - 185/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:37:29] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:37:52] [Server thread/INFO]: offgamer233 issued server command: /rg flag
+[20:37:57] [Server thread/INFO]: offgamer233 issued server command: /rg flag uno
+[20:38:04] [Server thread/INFO]: offgamer233 issued server command: /rg flags
+[20:38:09] [Server thread/INFO]: offgamer233 issued server command: /rg flags
+[20:38:29] [Craft Scheduler Thread - 186/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:38:29] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:38:30] [Server thread/INFO]: offgamer233 issued server command: /rg flag -w "world" -h 1 uno chest-access ALLOW
+[20:38:53] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 2 uno
+[20:38:59] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:39:03] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 3 uno
+[20:39:08] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 uno
+[20:39:19] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 5 uno
+[20:39:29] [Craft Scheduler Thread - 187/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:39:32] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 6 uno
+[20:39:38] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 5 uno
+[20:39:39] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 uno
+[20:39:39] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 3 uno
+[20:39:40] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 2 uno
+[20:39:41] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 1 uno
+[20:40:02] [Async Chat Thread - #8/INFO]: <offgamer233> as
+[20:40:29] [Craft Scheduler Thread - 188/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:41:29] [Craft Scheduler Thread - 189/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:42:29] [Craft Scheduler Thread - 190/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:43:29] [Craft Scheduler Thread - 191/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:44:06] [Server thread/INFO]: offgamer233 issued server command: /luckyblock give elrubius YELLOW 1
+[20:44:29] [Craft Scheduler Thread - 192/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:44:38] [Server thread/INFO]: offgamer233 issued server command: /rg flags
+[20:44:50] [Server thread/INFO]: offgamer233 issued server command: /rg flag -w "world" -h 1 uno use ALLOW
+[20:44:50] [Server thread/INFO]: offgamer233 issued server command: /rg flag -w "world" -h 1 uno interact ALLOW
+[20:44:54] [Server thread/INFO]: offgamer233 issued server command: /rg flag -w "world" -h 1 uno interact
+[20:44:57] [Server thread/INFO]: offgamer233 issued server command: /rg flag -w "world" -h 1 uno sleep ALLOW
+[20:44:58] [Server thread/INFO]: offgamer233 issued server command: /rg flag -w "world" -h 1 uno pvp ALLOW
+[20:44:59] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:45:29] [Craft Scheduler Thread - 193/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:45:54] [Server thread/ERROR]: Exception when offgamer233 attempted to tab complete luckyblock place 
+org.bukkit.command.CommandException: Unhandled exception during tab completion for command '/luckyblock place ' in plugin ntdLuckyBlock v2.8.27
+	at org.bukkit.command.PluginCommand.tabComplete(PluginCommand.java:150) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.Command.tabComplete(Command.java:93) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.command.SimpleCommandMap.tabComplete(SimpleCommandMap.java:244) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.tabCompleteCommand(CraftServer.java:1799) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.tabComplete(CraftServer.java:1771) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.command.BukkitCommandWrapper.getSuggestions(BukkitCommandWrapper.java:58) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.mojang.brigadier.tree.ArgumentCommandNode.listSuggestions(ArgumentCommandNode.java:71) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.mojang.brigadier.CommandDispatcher.getCompletionSuggestions(CommandDispatcher.java:596) ~[patched_1.15.2.jar:git-Paper-393]
+	at com.mojang.brigadier.CommandDispatcher.getCompletionSuggestions(CommandDispatcher.java:579) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.PlayerConnection.lambda$a$4(PlayerConnection.java:584) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:1106) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:1099) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1060) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:975) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoClassDefFoundError: org/bukkit/generator/WorldInfo
+	at me.DenBeKKer.ntdLuckyBlock.a.b.onTabComplete(Unknown Source) ~[?:?]
+	at org.bukkit.command.PluginCommand.tabComplete(PluginCommand.java:138) ~[patched_1.15.2.jar:git-Paper-393]
+	... 19 more
+Caused by: java.lang.ClassNotFoundException: org.bukkit.generator.WorldInfo
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:105) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at me.DenBeKKer.ntdLuckyBlock.a.b.onTabComplete(Unknown Source) ~[?:?]
+	at org.bukkit.command.PluginCommand.tabComplete(PluginCommand.java:138) ~[patched_1.15.2.jar:git-Paper-393]
+	... 19 more
+[20:46:09] [Server thread/INFO]: offgamer233 issued server command: /luckyblock gui
