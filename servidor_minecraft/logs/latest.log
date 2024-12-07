@@ -883,3 +883,165 @@ java.lang.IllegalArgumentException: Channel must contain : separator (attempted 
 [18:22:16] [Server thread/INFO]: offgamer233 issued server command: /tellraw @a[team=ADMIN] "hola"
 [18:22:16] [Server thread/INFO]: offgamer233 issued server command: /tellraw @a[team=ADMIN] "hola"
 [18:22:16] [Server thread/INFO]: offgamer233 issued server command: /tellraw @a[team=ADMIN] "hola"
+[18:28:36] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 1
+[18:28:54] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[18:28:54] [Server thread/INFO]: elrubius fell out of the world
+[18:29:06] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[18:29:28] [Server thread/INFO]: offgamer233 issued server command: //replace stone air
+[18:30:35] [Server thread/INFO]: offgamer233 issued server command: /reload
+[18:30:35] [Server thread/INFO]: offgamer233: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[18:30:37] [Server thread/INFO]: offgamer233 issued server command: /reload confirm
+[18:30:37] [Server thread/INFO]: offgamer233: Please note that this command is not supported and may cause issues when using some plugins.
+[18:30:37] [Server thread/INFO]: offgamer233: If you encounter any issues please use the /stop command to restart your server.
+[18:30:37] [Server thread/INFO]: Debug logging is disabled
+[18:30:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:30:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:30:37] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:30:37] [Server thread/INFO]: Mob Spawn Range: 8
+[18:30:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:30:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:30:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:30:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:30:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[18:30:37] [Server thread/INFO]: Max TNT Explosions: 100
+[18:30:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:30:37] [Server thread/INFO]: View Distance: 10
+[18:30:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:30:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:30:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:30:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:30:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:30:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:30:37] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:30:37] [Server thread/INFO]: Mob Spawn Range: 8
+[18:30:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:30:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:30:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:30:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:30:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[18:30:37] [Server thread/INFO]: Max TNT Explosions: 100
+[18:30:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:30:37] [Server thread/INFO]: View Distance: 10
+[18:30:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:30:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:30:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:30:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:30:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:30:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:30:37] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:30:37] [Server thread/INFO]: Mob Spawn Range: 8
+[18:30:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:30:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:30:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:30:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:30:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:30:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[18:30:37] [Server thread/INFO]: Max TNT Explosions: 100
+[18:30:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:30:37] [Server thread/INFO]: View Distance: 10
+[18:30:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:30:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:30:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:30:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:30:37] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:30:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:30:37] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[18:30:37] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[18:30:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[18:30:37] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[18:30:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.14+6360-094b734
+[18:30:37] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:30:37] [Server thread/INFO]: Found new data pack file/datatest3.zip, loading it automatically
+[18:30:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[18:30:37] [Server thread/INFO]: Loaded 6 recipes
+[18:30:37] [Server thread/INFO]: Loaded 67 custom command functions
+[18:30:37] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, datatest3.zip
+[18:30:37] [Server thread/INFO]: Loaded 6 recipes
+[18:30:37] [Server thread/INFO]: Loaded 67 custom command functions
+[18:30:38] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
+[18:30:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4bbb14d9]
+[18:30:38] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.8.0
+[18:30:38] [Server thread/INFO]: [ViaVersion] ViaVersion 4.8.0 is now loaded. Registering protocol transformers and injecting...
+[18:30:38] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:30:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:30:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:30:38] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:30:38] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:30:38] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.8.0
+[18:30:38] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.0
+[18:30:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:30:38] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
+[18:30:38] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
+[18:30:38] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:30:38] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:30:38] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18:30:39] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[18:30:39] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.0
+[18:30:39] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.8.0
+[18:30:39] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.8.0
+[18:30:39] [Server thread/INFO]: offgamer233: Reload complete.
+[18:30:39] [Server thread/INFO]: Timings Reset
+[18:30:39] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.15.2 (578)
+[18:30:39] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 11.0.25). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[18:30:39] [Craft Scheduler Thread - 16/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:30:39] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 4.8.0
+[18:30:41] [Async Chat Thread - #3/INFO]: <offgamer233> asda
+[18:30:42] [Async Chat Thread - #3/INFO]: <offgamer233> asd
+[18:30:45] [Server thread/INFO]: offgamer233 issued server command: /function elevator115_gshn28:structure_block
+[18:30:54] [Server thread/INFO]: offgamer233 issued server command: /give offgamer233 minecraft:structure_block
+[18:30:56] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
+[18:30:56] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
+[18:32:42] [Server thread/INFO]: offgamer233 issued server command: /execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5
+[18:32:57] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[18:33:04] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 2
+[18:33:17] [Server thread/INFO]: offgamer233 issued server command: /team leave
+[18:33:19] [Server thread/INFO]: offgamer233 issued server command: /team leave offgamer233
+[18:35:35] [Server thread/INFO]: offgamer233 issued server command: /team join ADMIN
+[18:35:48] [Server thread/INFO]: offgamer233 issued server command: /trigger selected_floor set 3
