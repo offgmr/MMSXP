@@ -7439,3 +7439,20 @@ java.lang.NoSuchFieldError: SWAP_OFFHAND
 	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:971) ~[patched_1.15.2.jar:git-Paper-393]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [18:56:32] [Craft Scheduler Thread - 557/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[18:57:32] [Craft Scheduler Thread - 563/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[18:58:32] [Craft Scheduler Thread - 569/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[18:59:32] [Craft Scheduler Thread - 575/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:00:32] [Craft Scheduler Thread - 581/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:01:32] [Craft Scheduler Thread - 587/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:02:32] [Craft Scheduler Thread - 592/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:02:33] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players list piso1
+[19:02:44] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players set piso1 piso1 4
+[19:02:50] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players set piso1 piso1 0
+[19:03:32] [Craft Scheduler Thread - 598/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:04:32] [Craft Scheduler Thread - 604/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:04:32] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players set piso1 piso1 4
+[19:05:32] [Craft Scheduler Thread - 610/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[19:06:21] [Server thread/INFO]: offgamer233 issued server command: /effect give piso1 minecraft:night_vision 1
+[19:06:25] [Server thread/INFO]: offgamer233 issued server command: /gamemode spectator
+[19:06:29] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[19:06:32] [Craft Scheduler Thread - 616/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
