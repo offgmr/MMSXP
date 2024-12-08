@@ -1,0 +1,4 @@
+on region enter:
+    send action bar "Tu saliste &c%region%" to player
+on region enter:
+    send action bar "Tu entraste &c%region%" to player 
