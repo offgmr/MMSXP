@@ -4783,3 +4783,52 @@ java.lang.NoSuchFieldError: SWAP_OFFHAND
 [20:47:18] [Craft Scheduler Thread - 286/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [20:48:18] [Craft Scheduler Thread - 292/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [20:49:18] [Craft Scheduler Thread - 298/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:50:18] [Craft Scheduler Thread - 304/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:51:18] [Craft Scheduler Thread - 310/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[20:51:43] [Server thread/INFO]: offgamer233 issued server command: /stop
+[20:51:43] [Server thread/INFO]: Stopping server
+[20:51:43] [Server thread/INFO]: [Skript] Disabling Skript v2.9.5
+[20:51:43] [Server thread/INFO]: [ntdLuckyBlock] Disabling ntdLuckyBlock v2.8.27
+[20:51:43] [Server thread/INFO]: [ExecutableItems] Disabling ExecutableItems v7.24.12.7
+[20:51:43] [Server thread/INFO]: [SCore] Disabling SCore v5.24.12.7
+[20:51:43] [Server thread/INFO]: SCore Save UsagePerDay....
+[20:51:43] [Server thread/INFO]: SCore Save UsagePerDay done !
+[20:51:43] [Server thread/INFO]: SCore Save Commands...
+[20:51:43] [Server thread/INFO]: SCore Save Commands done !
+[20:51:43] [Server thread/INFO]: SCore Save Cooldowns...
+[20:51:43] [Server thread/INFO]: SCore 0 cooldowns saved
+[20:51:43] [Server thread/INFO]: SCore Save Cooldowns done !
+[20:51:43] [Server thread/INFO]: SCore Run delayed saving tasks...
+[20:51:43] [Server thread/INFO]: SCore Run delayed saving tasks done !
+[20:51:43] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[20:51:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[20:51:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:51:43] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:51:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:51:43] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v3.0.0
+[20:51:43] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[20:51:43] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[20:51:43] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.8.0
+[20:51:43] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[20:51:43] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[20:51:43] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[20:51:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.8.0
+[20:51:43] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[20:51:43] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.14+6360-094b734
+[20:51:43] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:51:43] [Server thread/INFO]: Saving players
+[20:51:43] [Server thread/INFO]: offgamer233 lost connection: Server closed
+[20:51:43] [Server thread/INFO]: offgamer233 left the game
+[20:51:43] [Server thread/INFO]: Saving worlds
+[20:51:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:51:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[20:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:51:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[20:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:51:43] [Server thread/INFO]: Flushing Chunk IO
+[20:51:43] [Server thread/INFO]: Closing Thread Pool
+[20:51:43] [Server thread/INFO]: Closing Server
