@@ -1596,3 +1596,19 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [05:04:53] [Server thread/INFO]: offgamer233 issued server command: /rg info -w "world" dos
 [05:05:04] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
 [05:05:10] [Craft Scheduler Thread - 533/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:05:31] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:06:10] [Craft Scheduler Thread - 535/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:07:10] [Craft Scheduler Thread - 536/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:08:10] [Craft Scheduler Thread - 537/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:08:27] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:09:10] [Craft Scheduler Thread - 538/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:10:10] [Craft Scheduler Thread - 539/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:10:50] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:11:10] [Craft Scheduler Thread - 541/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:11:22] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:11:29] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius
+[05:12:10] [Craft Scheduler Thread - 542/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:13:10] [Craft Scheduler Thread - 543/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:14:10] [Craft Scheduler Thread - 544/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:15:02] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:15:10] [Craft Scheduler Thread - 545/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
