@@ -10,12 +10,11 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    uno:
-        min: {x: -7, y: 1, z: -4}
-        max: {x: 21, y: 110, z: 30}
+    dos:
+        min: {x: -4, y: 1, z: -3}
+        max: {x: 24, y: 110, z: 23}
         members: {}
-        flags: {sleep: allow, ntd-lb-break: allow, use: allow, interact: allow, chest-access: allow,
-            pvp: allow, block-place: allow}
+        flags: {ntd-lb-break: allow}
         owners: {}
         type: cuboid
         priority: 0
