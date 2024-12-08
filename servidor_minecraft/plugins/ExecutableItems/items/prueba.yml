@@ -38,6 +38,13 @@ giveFirstJoin:
   giveFirstJoinSlot: 0
 restrictions: {}
 variables: {}
+displayConditions:
+  playerConditions: {}
+  worldConditions: {}
+  itemConditions: {}
+  placeholdersConditions: {}
+  enableFeature: false
+attributes: {}
 activators:
   activator0:
     name: '&eActivator'
@@ -80,8 +87,7 @@ activators:
     requiredMagics: {}
     detailedSlots:
     - -1
-    commands:
-    - Type new line here../luckyblock give %player% YELLOW 1
+    commands: []
     playerConditions: {}
     worldConditions: {}
     itemConditions: {}
@@ -89,10 +95,3 @@ activators:
       ifNeedPlayerConfirmationCancel: false
     placeholdersConditions: {}
     variablesModification: {}
-displayConditions:
-  playerConditions: {}
-  worldConditions: {}
-  itemConditions: {}
-  placeholdersConditions: {}
-  enableFeature: false
-attributes: {}
