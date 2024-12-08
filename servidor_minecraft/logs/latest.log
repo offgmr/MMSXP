@@ -1489,3 +1489,52 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [04:33:10] [Craft Scheduler Thread - 490/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [04:34:10] [Craft Scheduler Thread - 491/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [04:35:10] [Craft Scheduler Thread - 492/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:35:19] [Server thread/INFO]: Made offgamer233 a server operator
+[04:35:29] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[04:36:10] [Craft Scheduler Thread - 494/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:36:38] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[04:37:10] [Craft Scheduler Thread - 495/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:37:34] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[04:37:43] [Server thread/INFO]: [ELITE] offgamer233 fell out of the world
+[04:37:50] [Server thread/INFO]: offgamer233 issued server command: /gamemode creative
+[04:37:56] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[04:38:10] [Craft Scheduler Thread - 496/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:38:25] [User Authenticator #5/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
+[04:38:25] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius joined the game
+[04:38:25] [Server thread/INFO]: elrubius[/127.242.21.161:43845] logged in with entity id 71 at ([world]11.283035689444752, 10.0, 18.69999998807907)
+[04:38:41] [Server thread/INFO]: offgamer233 issued server command: /gamemode survival offgamer233
+[04:38:46] [Server thread/INFO]: offgamer233 issued server command: /deop offgamer233
+[04:39:10] [Craft Scheduler Thread - 497/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:40:10] [Craft Scheduler Thread - 498/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:40:25] [Server thread/INFO]: elrubius lost connection: Login timed out!
+[04:40:25] [Server thread/INFO]: elrubius left the game
+[04:40:53] [Server thread/INFO]: [Skript] Reloading ejemplo.sk...
+[04:40:53] [Server thread/INFO]: Line 17: (ejemplo.sk)
+[04:40:53] [Server thread/INFO]:     indentation error: expected 12 spaces, but found 11 spaces
+[04:40:53] [Server thread/INFO]:     Line: if "%region at event-block%" contains "dos in world world":
+[04:40:53] [Server thread/INFO]:  
+[04:40:53] [Server thread/INFO]: Line 18: (ejemplo.sk)
+[04:40:53] [Server thread/INFO]:     indentation error: expected 12 spaces, but found 15 spaces
+[04:40:53] [Server thread/INFO]:     Line: send "&ctu no puedes colocar &l%type of block%&c en esta region" to player
+[04:40:53] [Server thread/INFO]:  
+[04:40:53] [Server thread/INFO]: Line 19: (ejemplo.sk)
+[04:40:53] [Server thread/INFO]:     indentation error: expected 12 spaces, but found 15 spaces
+[04:40:53] [Server thread/INFO]:     Line: cancel event
+[04:40:53] [Server thread/INFO]:  
+[04:40:53] [Server thread/INFO]: [Skript] Encountered 3 errors while reloading ejemplo.sk! (23ms)
+[04:41:10] [Craft Scheduler Thread - 500/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:42:10] [Craft Scheduler Thread - 501/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:43:10] [Craft Scheduler Thread - 502/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:44:10] [Craft Scheduler Thread - 503/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:44:53] [Server thread/INFO]: [Skript] Reloading ejemplo.sk...
+[04:44:53] [Server thread/INFO]: Line 24: (ejemplo.sk)
+[04:44:53] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[04:44:53] [Server thread/INFO]:     Line: if "%region at event-block%" contains "dos world world":
+[04:44:53] [Server thread/INFO]:  
+[04:44:53] [Server thread/INFO]: [Skript] Successfully reloaded ejemplo.sk. (21ms)
+[04:45:04] [Server thread/INFO]: Made offgamer233 a server operator
+[04:45:07] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[04:45:10] [Craft Scheduler Thread - 504/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[04:45:18] [User Authenticator #6/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
+[04:45:18] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius joined the game
+[04:45:18] [Server thread/INFO]: elrubius[/127.242.21.161:41397] logged in with entity id 72 at ([world]11.283035689444752, 10.0, 18.69999998807907)
