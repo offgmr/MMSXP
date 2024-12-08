@@ -87,7 +87,8 @@ activators:
     requiredMagics: {}
     detailedSlots:
     - -1
-    commands: []
+    commands:
+    - ALL_PLAYERS luckyblock give %player% YELLOW 1
     playerConditions: {}
     worldConditions: {}
     itemConditions: {}
