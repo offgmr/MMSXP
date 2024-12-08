@@ -3,24 +3,4 @@ on region enter:
 on region enter:
     send action bar "Tu entraste &c%region%" to player 
 
-
-
-on place of player head:
-    if player is not op:
-        if "%region at event-block%" contains "dos in world world": 
-            send "&ctu no puedes colocar &l%type of block%&c en esta region" to player
-            cancel event
-
-on mine of player head:
-    if player is not op:
-        if "%region at event-block%" contains "dos in world world": 
-            send "&ctu no puedes colocar &l%type of block%&c en esta region" to player
-            cancel event
-
-
-on mine:
-    if player is not op:
-        if event-block is player head:
-            if "%region at event-block%" contains "dos in world world":
-            send "&ctu no puedes colocar &l%type of block%&c in this region" to player
-            cancel event
+    

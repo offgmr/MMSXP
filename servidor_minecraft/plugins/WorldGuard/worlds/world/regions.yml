@@ -11,10 +11,10 @@
 #
 regions:
     dos:
-        min: {x: -4, y: 1, z: -3}
-        max: {x: 24, y: 110, z: 23}
+        min: {x: -4, y: 2, z: -3}
+        max: {x: 21, y: 107, z: 24}
         members: {}
-        flags: {ntd-lb-break: allow, block-break: deny, passthrough: allow, pvp: allow}
+        flags: {passthrough: allow}
         owners: {}
         type: cuboid
         priority: 0
