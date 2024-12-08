@@ -14,7 +14,7 @@ regions:
         min: {x: -4, y: 1, z: -3}
         max: {x: 24, y: 110, z: 23}
         members: {}
-        flags: {ntd-lb-break: allow, block-break: allow, pvp: allow}
+        flags: {ntd-lb-break: allow, block-break: allow, passthrough: allow, pvp: allow}
         owners: {}
         type: cuboid
         priority: 0
