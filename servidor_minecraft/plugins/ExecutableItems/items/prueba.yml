@@ -38,13 +38,6 @@ giveFirstJoin:
   giveFirstJoinSlot: 0
 restrictions: {}
 variables: {}
-displayConditions:
-  playerConditions: {}
-  worldConditions: {}
-  itemConditions: {}
-  placeholdersConditions: {}
-  enableFeature: false
-attributes: {}
 activators:
   activator0:
     name: '&eActivator'
@@ -96,3 +89,10 @@ activators:
       ifNeedPlayerConfirmationCancel: false
     placeholdersConditions: {}
     variablesModification: {}
+displayConditions:
+  playerConditions: {}
+  worldConditions: {}
+  itemConditions: {}
+  placeholdersConditions: {}
+  enableFeature: false
+attributes: {}
