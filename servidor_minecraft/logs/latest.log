@@ -997,3 +997,122 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [03:44:36] [Server thread/INFO]: Player @a not found :(
 [03:44:53] [Server thread/INFO]: offgamer233 issued server command: /pl
 [03:45:05] [Craft Scheduler Thread - 355/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:45:09] [Server thread/INFO]: offgamer233 issued server command: /rg flas
+[03:45:11] [Server thread/INFO]: offgamer233 issued server command: /rg flags
+[03:45:13] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 2 dos
+[03:45:14] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 3 dos
+[03:45:14] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 dos
+[03:45:14] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 dos
+[03:45:15] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 5 dos
+[03:45:15] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 6 dos
+[03:45:16] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 7 dos
+[03:45:23] [Server thread/INFO]: offgamer233 issued server command: /tp elrubius offgamer233
+[03:45:29] [Netty Epoll Server IO #2/WARN]: [ViaVersion] ERROR IN Protocol1_18To1_17_1 IN REMAP OF BLOCK_ENTITY_DATA (0x0A)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[03:45:29] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_18to1_17_1.packets.WorldPackets$1 (Anonymous)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:104)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:294)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_15_R1.NetworkManager.lambda$b$6(NetworkManager.java:300)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:384)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: Caused by: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+[03:45:29] [Netty Epoll Server IO #2/WARN]: Source 0: com.viaversion.viaversion.protocols.protocol1_18to1_17_1.packets.WorldPackets$1 (Anonymous)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: Caused by: java.lang.IllegalStateException: zip file closed
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:931)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:358)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.zip.ZipFile$1.getEntry(ZipFile.java:1169)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getEntry0(JarFile.java:584)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:514)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:476)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:133)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:216)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:111)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:594)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocols.protocol1_18to1_17_1.packets.WorldPackets$1.lambda$register$0(WorldPackets.java:57)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.handle(PacketHandlers.java:158)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.api.protocol.AbstractProtocol.transform(AbstractProtocol.java:366)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:407)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:395)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.packet.PacketWrapperImpl.apply(PacketWrapperImpl.java:45)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.protocol.ProtocolPipelineImpl.transform(ProtocolPipelineImpl.java:122)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transform(UserConnectionImpl.java:328)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.connection.UserConnectionImpl.transformClientbound(UserConnectionImpl.java:307)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:57)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler.encode(BukkitEncodeHandler.java:35)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:89)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:294)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at net.minecraft.server.v1_15_R1.NetworkManager.lambda$b$6(NetworkManager.java:300)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:384)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:45:29] [Netty Epoll Server IO #2/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[03:45:29] [Server thread/INFO]: elrubius lost connection: Internal Exception: io.netty.handler.codec.EncoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+Source 0: com.viaversion.viaversion.protocols.protocol1_18to1_17_1.packets.WorldPackets$1 (Anonymous)
+[03:45:29] [Server thread/INFO]: elrubius left the game
+[03:45:32] [User Authenticator #3/INFO]: UUID of player elrubius is 691df33d-823f-35e8-a6f0-854d557922a0
+[03:45:32] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius joined the game
+[03:45:32] [Server thread/INFO]: elrubius[/127.242.21.161:42711] logged in with entity id 50 at ([world]12.771926697329606, 10.0, 15.862261107449934)
+[03:46:05] [Craft Scheduler Thread - 360/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:46:07] [Server thread/INFO]: offgamer233 issued server command: /luckyblock give elrubius YELLOW
+[03:46:24] [Server thread/INFO]: offgamer233 issued server command: /luckyblock give offgamer233 YELLOW
+[03:46:45] [Server thread/INFO]: offgamer233 issued server command: /rg flag
+[03:46:47] [Server thread/INFO]: offgamer233 issued server command: /rg
+[03:47:04] [Server thread/INFO]: offgamer233 issued server command: /rg reload
+[03:47:05] [Craft Scheduler Thread - 366/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:47:14] [Server thread/INFO]: offgamer233 issued server command: /rg flags
+[03:47:16] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 2 dos
+[03:47:17] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 3 dos
+[03:47:17] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 dos
+[03:47:18] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 5 dos
+[03:47:19] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 6 dos
+[03:47:24] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 5 dos
+[03:47:25] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 5 dos
+[03:47:25] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 dos
+[03:47:25] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 4 dos
+[03:47:25] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 3 dos
+[03:47:26] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 3 dos
+[03:47:26] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 2 dos
+[03:47:26] [Server thread/INFO]: offgamer233 issued server command: /rg flags -w "world" -p 1 dos
+[03:47:50] [Server thread/INFO]: offgamer233 issued server command: /rg flag block-break allow
+[03:47:55] [Server thread/INFO]: offgamer233 issued server command: /rg flag dos block-break allow
+[03:48:03] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:48:05] [Craft Scheduler Thread - 372/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:48:27] [Server thread/INFO]: offgamer233 issued server command: /rg flag dos pvp allow
+[03:48:33] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:49:05] [Craft Scheduler Thread - 378/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:50:05] [Craft Scheduler Thread - 384/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:51:05] [Craft Scheduler Thread - 390/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:52:05] [Craft Scheduler Thread - 396/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:53:05] [Craft Scheduler Thread - 401/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:54:05] [Craft Scheduler Thread - 407/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[03:55:05] [Craft Scheduler Thread - 413/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
