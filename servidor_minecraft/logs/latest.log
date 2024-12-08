@@ -333,3 +333,41 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [17:15:53] [Craft Scheduler Thread - 17/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [17:16:17] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
 [17:16:17] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:16:53] [Craft Scheduler Thread - 21/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:16:55] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players set elrubius muertes 0
+[17:17:01] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:17:01] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:17:18] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:17:18] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:17:53] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:17:53] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:17:53] [Craft Scheduler Thread - 22/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:18:07] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:18:07] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:18:20] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players list elrubius
+[17:18:28] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players list @a
+[17:18:37] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players list @e
+[17:18:40] [Server thread/INFO]: offgamer233 issued server command: /scoreboard players list @s
+[17:18:53] [Craft Scheduler Thread - 23/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:19:04] [Server thread/INFO]: offgamer233 issued server command: /time set day
+[17:19:27] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:19:27] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:19:47] [Server thread/INFO]: offgamer233 issued server command: /gamemode survival elrubius
+[17:19:53] [Craft Scheduler Thread - 24/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:20:53] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:20:53] [Server thread/INFO]: [FAN DE BRAWL STARS] elrubius fell out of the world
+[17:20:53] [Craft Scheduler Thread - 25/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:21:04] [Server thread/INFO]: offgamer233 issued server command: /gamemode survival elrubius
+[17:21:09] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:21:09] [Server thread/INFO]: [FANTASMA] elrubius fell out of the world
+[17:21:51] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:21:51] [Server thread/INFO]: [FANTASMA] elrubius fell out of the world
+[17:21:53] [Craft Scheduler Thread - 27/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:22:53] [Craft Scheduler Thread - 28/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:23:53] [Craft Scheduler Thread - 29/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:24:53] [Craft Scheduler Thread - 30/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:24:53] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:24:53] [Server thread/INFO]: [FANTASMA] elrubius fell out of the world
+[17:25:53] [Craft Scheduler Thread - 31/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[17:26:11] [Server thread/INFO]: offgamer233 issued server command: /kill elrubius
+[17:26:11] [Server thread/INFO]: [FANTASMA] elrubius fell out of the world
