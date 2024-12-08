@@ -6,6 +6,12 @@ on region enter:
 
 on place of player head:
     if player is not op:
-        if event-block is not player head:
-           if "%region at event-block%" contains "dos in world world": 
-               cancel event
+        if "%region at event-block%" contains "dos in world world": 
+            send "&ctu no puedes colocar &l%type of block%&c en esta region" to player
+            cancel event
+
+on mine of player head:
+    if player is not op:
+    if "%region at event-block%" contains "dos in world world": 
+            send "&ctu no puedes colocar &l%type of block%&c en esta region" to player
+            cancel event
