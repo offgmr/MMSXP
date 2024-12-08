@@ -20,7 +20,7 @@ on mine of player head:
 
 on mine:
     if player is not op:
-        if event-block is not player head:
-            if "%region at event-block%" contains "dos world world":
+        if event-block is player head:
+            if "%region at event-block%" contains "dos in world world":
             send "&ctu no puedes colocar &l%type of block%&c in this region" to player
             cancel event
