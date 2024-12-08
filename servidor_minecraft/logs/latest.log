@@ -1630,3 +1630,22 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.Pro
 [05:23:22] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=6, y=10, z=4}
 [05:24:10] [Craft Scheduler Thread - 556/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
 [05:25:10] [Craft Scheduler Thread - 557/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:26:10] [Craft Scheduler Thread - 559/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:26:17] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:26:40] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:26:49] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=12, y=10, z=9}
+[05:26:50] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=12, y=10, z=10}
+[05:27:10] [Craft Scheduler Thread - 560/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:27:24] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:28:10] [Craft Scheduler Thread - 561/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:28:40] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=7, y=10, z=16}
+[05:29:07] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:29:10] [Craft Scheduler Thread - 562/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:30:10] [Craft Scheduler Thread - 563/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:31:10] [Craft Scheduler Thread - 566/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:32:10] [Craft Scheduler Thread - 567/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:33:10] [Craft Scheduler Thread - 568/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:34:10] [Craft Scheduler Thread - 569/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:35:06] [Server thread/INFO]: offgamer233 issued server command: /skript reload ejemplo.sk
+[05:35:10] [Craft Scheduler Thread - 570/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mOutdated ViaVersion/ViaBackwards found! Please update to at least ViaVersion/ViaBackwards 5.0.0 for SkinsRestorer to work again![0;39m
+[05:35:27] [Server thread/INFO]: offgamer233 issued server command: /give elrubius minecraft:diamond_pickaxe 1
