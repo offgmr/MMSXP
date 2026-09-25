@@ -1,0 +1,15 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+*.pyc
+*.msp
+*.msx
+*.py
+# GitHub OAuth token
+msx_session.bin
